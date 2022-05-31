@@ -21,8 +21,8 @@
   <string comment="General" name="Close" quotation="true">Fermer</string>
   <string comment="General" name="Cancel" quotation="true">Annuler</string>
   <string comment="General" name="register" quotation="true">Inscrire</string>
-  <string comment="General" name="edit" quotation="true">Édition</string>
-  <string comment="General" name="button-edit" quotation="true">Édition</string>
+  <string comment="General" name="edit" quotation="true">Éditer</string>
+  <string comment="General" name="button-edit" quotation="true">Éditer</string>
   <string comment="General" name="button-delete" quotation="true">Supprimer</string>
   <string comment="General" name="button-delete-content" quotation="true">Supprimer le contenu</string>
   <string comment="General" name="button-restore" quotation="true">Restaurer</string>
@@ -94,7 +94,7 @@
   <string comment="General" name="see-bin" quotation="true">Voir la poubelle</string>
   <string comment="General" name="complex" quotation="true">Chargement partiel</string>
   <string comment="General" name="button-print" quotation="true">Imprimer</string>
-  <string comment="General" name="write-mode" quotation="true">Édition</string>
+  <string comment="General" name="write-mode" quotation="true">Éditer</string>
   <string comment="General" name="button-increase" quotation="true">Augmenter la taille des caractères</string>
   <string comment="General" name="button-decrease" quotation="true">Diminuer la taille des caractères</string>
   <string comment="General" name="copy" quotation="true">Copier</string>
@@ -109,7 +109,7 @@
   <string comment="NODE" name="label" quotation="true">Libellé</string>
   <string comment="NODE" name="code" quotation="true">Code</string>
   <string comment="NODE" name="value" quotation="true">Valeur</string>
-  <string comment="NODE" name="edit" quotation="true">Édition</string>
+  <string comment="NODE" name="edit" quotation="true">Éditer</string>
   <string comment="NODE" name="comments" quotation="true">Information complémentaire</string>
   <string comment="NODE" name="help-label" quotation="true">Aide</string>
   <string comment="METADATA" name="semantictag" quotation="true">Tag sémantique</string>
