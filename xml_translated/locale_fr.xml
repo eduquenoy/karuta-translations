@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string comment="General" name="language" quotation="true">Français</string>
+  <string comment="General" name="langshort" quotation="true">FR</string>
+  <string comment="General" name="flag-name" quotation="true">France</string>
+  <string comment="General" name="new" quotation="true">Nouvel élément</string>
+  <string comment="General" name="email" quotation="true">Courriel</string>
+  <string comment="General" name="password" quotation="true">Mot de passe</string>
+  <string comment="General" name="login" quotation="true">Entrez!</string>
+  <string comment="General" name="yes" quotation="true">Oui</string>
+  <string comment="General" name="no" quotation="true">Non</string>
+  <string comment="General" name="home" quotation="true">Accueil</string>
+  <string comment="General" name="loading" quotation="true">Chargement ... </string>
+  <string comment="General" name="create_pdf" quotation="true">Créer PDF</string>
+  <string comment="General" name="create_pdf_toc" quotation="true">Créer PDF avec TdM</string>
+  <string comment="General" name="Update" quotation="true">Éditer</string>
+  <string comment="General" name="Create" quotation="true">Créer</string>
+  <string comment="General" name="Change" quotation="true">Changer</string>
+  <string comment="General" name="Save" quotation="true">Enregistrer</string>
+  <string comment="General" name="OK" quotation="true">Sauvegarder</string>
+  <string comment="General" name="Close" quotation="true">Fermer</string>
+  <string comment="General" name="Cancel" quotation="true">Annuler</string>
+  <string comment="General" name="register" quotation="true">Inscrire</string>
+  <string comment="General" name="edit" quotation="true">Éditer</string>
+  <string comment="General" name="button-edit" quotation="true">Éditer</string>
+  <string comment="General" name="button-delete" quotation="true">Supprimer</string>
+  <string comment="General" name="button-delete-content" quotation="true">Supprimer le contenu</string>
+  <string comment="General" name="button-restore" quotation="true">Restaurer</string>
+  <string comment="General" name="button-remove" quotation="true">Retirer</string>
+  <string comment="General" name="button-submit" quotation="true">Soumettre</string>
+  <string comment="General" name="button-unsubmit" quotation="true">Réinitialiser</string>
+  <string comment="General" name="button-send" quotation="true">Envoyer</string>
+  <string comment="General" name="button-share" quotation="true">Partager</string>
+  <string comment="General" name="button-show" quotation="true">Montrer</string>
+  <string comment="General" name="button-hide" quotation="true">Cacher</string>
+  <string comment="General" name="button-2world" quotation="true">URL publique</string>
+  <string comment="General" name="button-up" quotation="true">Monter</string>
+  <string comment="General" name="button-reload" quotation="true">Recharger</string>
+  <string comment="General" name="button-edition" quotation="true">Pour passer en mode édition pousser le bouton 'Éditer'.&lt;p style='margin-top:20px;font-size:small'&gt; Ne plus afficher &lt;input type='checkbox' onclick='doNotDisplayEdit()'&gt;&lt;/p&gt;</string>
+  <string comment="General" name="button-refresh" quotation="true">Recharger la page</string>
+  <string comment="General" name="button-refresh-report" quotation="true">Rafraîchir le rapport</string>
+  <string comment="General" name="button-disconnect" quotation="true">Se déconnecter</string>
+  <string comment="General" name="button-change-password" quotation="true">Changement de mot de passe</string>
+  <string comment="General" name="button-change-name" quotation="true">Changement votre nom</string>
+  <string comment="General" name="button-new-window" quotation="true">Ouvrir un nouvel onglet</string>
+  <string comment="General" name="button-support" quotation="true">Support technique</string>
+  <string comment="General" name="preview" quotation="true">Aperçu</string>
+  <string comment="General" name="Add" quotation="true">Ajouter</string>
+  <string comment="General" name="AddGroup" quotation="true">Ajouter un groupe</string>
+  <string comment="General" name="confirm-delete" quotation="true">Voulez-vous vraiment supprimer ? Cette action est irréversible.</string>
+  <string comment="General" name="confirm-submit" quotation="true">Voulez-vous soumettre ? Vous ne pourrez plus modifier ou supprimer. Cette action est irréversible.</string>
+  <string comment="General" name="password-old" quotation="true">Ancien mot de passe</string>
+  <string comment="General" name="password-new" quotation="true">Nouveau mot de passe</string>
+  <string comment="General" name="import" quotation="true">Importer</string>
+  <string comment="General" name="instance" quotation="true">Instancier</string>
+  <string comment="General" name="reload" quotation="true">Reload</string>
+  <string comment="General" name="user" quotation="true">Usager</string>
+  <string comment="General" name="role" quotation="true">Rôle</string>
+  <string comment="General" name="model" quotation="true">Gabarit</string>
+  <string comment="General" name="users" quotation="true">Usagers</string>
+  <string comment="General" name="roles" quotation="true">Rôles</string>
+  <string comment="General" name="userofgroup" quotation="true">Usagers dans le groupe</string>
+  <string comment="General" name="group" quotation="true">Groupe</string>
+  <string comment="General" name="move" quotation="true">Déplacer vers</string>
+  <string comment="General" name="enter-text" quotation="true">Tapez votre texte ...</string>
+  <string comment="General" name="not-logged" quotation="true">Vous n'êtes pas connecté.</string>
+  <string comment="General" name="translate" quotation="true">Traduire</string>
+  <string comment="General" name="submit" quotation="true">Soumettre</string>
+  <string comment="General" name="newpassword" quotation="true">Mot de passe oublié?</string>
+  <string comment="General" name="tipnewpassword" quotation="true">Si vous ne trouvez pas notre message dans votre boîte de réception, vérifiez dans votre dossier «&amp;nbsp;courrier indésirable&amp;nbsp;» ou «&amp;nbsp;spam&amp;nbsp;»</string>
+  <string comment="General" name="confirm-password" quotation="true">Confirmez mot de passe</string>
+  <string comment="General" name="password-mismatch" quotation="true">Les deux mots de passe ne correspondent pas.</string>
+  <string comment="General" name="saved" quotation="true">Enregistré</string>
+  <string comment="General" name="password-sent" quotation="true">Un nouveau mot de passe a été envoyé par courriel.</string>
+  <string comment="General" name="new-account" quotation="true">Vous n'avez pas de compte?</string>
+  <string comment="General" name="sign-up" quotation="true">Inscrivez-vous!</string>
+  <string comment="General" name="disconnected" quotation="true">Oups! Erreur de sauvegarde. Vous avez peut-être été accidentellement déconnecté! Vérifiez en rechargeant la page.</string>
+  <string comment="General" name="demo-documentation" quotation="true">Importer la documentation Karuta</string>
+  <string comment="General" name="demo-ecommerce" quotation="true">Importer les portfolios démo eCommerce</string>
+  <string comment="General" name="demo-aacu" quotation="true">Importer les portfolios démo AACU</string>
+  <string comment="General" name="demo-video" quotation="true">Importer les portfolios démo des vidéos YouTube</string>
+  <string comment="General" name="want-sharing" quotation="true"> désire partager avec vous une partie de son portfolio.</string>
+  <string comment="General" name="share-URL" quotation="true">Partage du portfolio</string>
+  <string comment="General" name="see" quotation="true">Voir</string>
+  <string comment="General" name="free-toolbar-menu-tooltip" quotation="true">Cliquer pour éditer</string>
+  <string comment="General" name="quit-edit" quotation="true">Quitter le mode édition</string>
+  <string comment="General" name="choose" quotation="true">Choisir</string>
+  <string comment="General" name="quit" quotation="true">Quitter</string>
+  <string comment="General" name="menu" quotation="true">Menu</string>
+  <string comment="General" name="block-image-size" quotation="true">Taille recommandée en pixels&lt;br&gt;&amp;nbsp; - Hauteur : 220&lt;br&gt;&amp;nbsp; - Largeur : 800 divisé par le nombre de colonnes&lt;br&gt;&amp;nbsp;</string>
+  <string comment="General" name="list-novisible" quotation="true">Portfolio non visible</string>
+  <string comment="General" name="editmode" quotation="true">Édition par défaut</string>
+  <string comment="General" name="empty-bin" quotation="true">Vider la poubelle</string>
+  <string comment="General" name="see-bin" quotation="true">Voir la poubelle</string>
+  <string comment="General" name="complex" quotation="true">Chargement partiel</string>
+  <string comment="General" name="button-print" quotation="true">Imprimer</string>
+  <string comment="General" name="write-mode" quotation="true">Éditer</string>
+  <string comment="General" name="button-increase" quotation="true">Augmenter la taille des caractères</string>
+  <string comment="General" name="button-decrease" quotation="true">Diminuer la taille des caractères</string>
+  <string comment="General" name="copy" quotation="true">Copier</string>
+  <string comment="General" name="copied" quotation="true">Copié</string>
+  <string comment="General" name="waitreport" quotation="true">Patience, le rapport est exécuté sur le serveur. Revenez dans quelques minutes pour visualiser le rapport.</string>
+  <string comment="General" name="instruction-export-menu" quotation="true">Copier le menu Ajouter et le coller dans l'élément où vous voulez l'importer.</string>
+  <string comment="General" name="back" quotation="true">Cliquer pour revenir en arrière</string>
+  <string comment="ERRORS" name="error-existing-code" quotation="true">ERREUR - Le code existe déjà. Veuillez en choisir un autre.</string>
+  <string comment="ERRORS" name="error-existing-login" quotation="true">ERREUR - Le login existe déjà ou une entrée est invalide. Veuillez choisir un autre login ou vérifiez les champs.</string>
+  <string comment="ERRORS" name="error-empty-code" quotation="true">ERREUR - Le code ne peut être vide.</string>
+  <string comment="ERRORS" name="error-notfound" quotation="true">ERREUR - non trouvé</string>
+  <string comment="NODE" name="label" quotation="true">Libellé</string>
+  <string comment="NODE" name="code" quotation="true">Code</string>
+  <string comment="NODE" name="value" quotation="true">Valeur</string>
+  <string comment="NODE" name="edit" quotation="true">Édition</string>
+  <string comment="NODE" name="comments" quotation="true">Information complémentaire</string>
+  <string comment="NODE" name="help-label" quotation="true">Aide</string>
+  <string comment="METADATA" name="semantictag" quotation="true">Tag sémantique</string>
+  <string comment="METADATA" name="multilingual-node" quotation="true">Noeud multilingue</string>
+  <string comment="METADATA" name="multilingual-resource" quotation="true">Ressource multilingue</string>
+  <string comment="METADATA" name="seenoderoles" quotation="true">Voir</string>
+  <string comment="METADATA" name="resnopencil" quotation="true">Ressource sans crayon </string>
+  <string comment="METADATA" name="editresroles" quotation="true">Éditer ressource</string>
+  <string comment="METADATA" name="delnoderoles" quotation="true">Supprimer</string>
+  <string comment="METADATA" name="commentnoderoles" quotation="true">Commenter</string>
+  <string comment="METADATA" name="seecommentnoderoles" quotation="true">Voir les commentaires</string>
+  <string comment="METADATA" name="annotnoderoles" quotation="true">Annoter</string>
+  <string comment="METADATA" name="submitroles" quotation="true">Soumettre</string>
+  <string comment="METADATA" name="txtsubmitroles" quotation="true">Textes Soumettre</string>
+  <string comment="METADATA" name="unsubmitroles" quotation="true">Réinitialiser Soumettre</string>
+  <string comment="METADATA" name="submitall" quotation="true">Soumettre pour tous les rôles</string>
+  <string comment="METADATA" name="nodenopencil" quotation="true">Noeud sans crayon pour tous</string>
+  <string comment="METADATA" name="nodenopencilroles" quotation="true">Noeud sans crayon</string>
+  <string comment="METADATA" name="editnoderoles" quotation="true">Éditer libellé</string>
+  <string comment="METADATA" name="editcoderoles" quotation="true">Éditer code</string>
+  <string comment="METADATA" name="duplicateroles" quotation="true">Dupliquer</string>
+  <string comment="METADATA" name="editboxtitle" quotation="true">Titre boîte d'édition</string>
+  <string comment="METADATA" name="queryGet_Resource" quotation="true">Recherche &lt;br/&gt;&lt;span style='font-size:smaller'&gt; code_portfolio.tag_sémantique.&lt;i&gt;label&lt;/i&gt;&lt;br&gt; Mot réservé pour code_portfolio : &lt;i&gt;self&lt;/i&gt;&lt;/span&gt;</string>
+  <string comment="METADATA" name="query" quotation="false">karutaStr['fr']['queryGet_Resource']</string>
+  <string comment="METADATA" name="queryasmUnitStructure" quotation="false">karutaStr['fr']['queryGet_Resource']</string>
+  <string comment="METADATA" name="queryasmUnit" quotation="false">karutaStr['fr']['queryGet_Resource']</string>
+  <string comment="METADATA" name="queryasmStructure" quotation="false">karutaStr['fr']['queryGet_Resource']</string>
+  <string comment="METADATA" name="queryURL2Unit" quotation="true">Recherche &lt;br/&gt;&lt;span style='font-size:smaller'&gt; code_portfolio.tag_sémantique.&lt;i&gt;label&lt;/i&gt;&lt;br&gt; Mot réservé pour code_portfolio : &lt;i&gt;self&lt;/i&gt;&lt;/span&gt;</string>
+  <string comment="METADATA" name="queryURL2UnitBlock" quotation="false">karutaStr['fr']['queryURL2Unit']</string>
+  <string comment="METADATA" name="queryURL2Portfolio" quotation="true">Recherche &lt;br/&gt;&lt;span style='font-size:smaller'&gt; partie du code_portfolio.&lt;i&gt;label&lt;/i&gt;</string>
+  <string comment="METADATA" name="queryURL2PortfolioBlock" quotation="false">karutaStr['fr']['queryURL2Portfolio']</string>
+  <string comment="METADATA" name="queryGet_Get_Resource" quotation="true">Recherche &lt;br/&gt;&lt;span style='font-size:smaller'&gt; code_portfolio.&lt;i&gt;child&lt;/i&gt;|&lt;i&gt;parent&lt;/i&gt;[.&lt;i&gt;parent&lt;/i&gt;].tag_sémantique1.tag_sémantique2.&lt;i&gt;label&lt;/i&gt;&lt;br&gt; Mot réservé pour code_portfolio : &lt;i&gt;self&lt;/i&gt;&lt;/span&gt;</string>
+  <string comment="METADATA" name="queryProxy" quotation="true">Recherche &lt;br/&gt;&lt;span style='font-size:smaller'&gt; code_portfolio.tag_sémantique.&lt;i&gt;label&lt;/i&gt;&lt;br&gt; Mots réservés pour code_portfolio : &lt;i&gt;all&lt;/i&gt; et &lt;i&gt;self&lt;/i&gt;&lt;/span&gt;</string>
+  <string comment="METADATA" name="queryAction" quotation="true">Recherche &lt;br/&gt;&lt;span style='font-size:smaller'&gt; code_portfolio.tag_sémantique.&lt;i&gt;label&lt;/i&gt;&lt;br&gt; Mots réservés pour code_portfolio : &lt;i&gt;all&lt;/i&gt; et &lt;i&gt;self&lt;/i&gt;&lt;/span&gt;</string>
+  <string comment="METADATA" name="queryGet_Double_Resource" quotation="true">Recherche &lt;br/&gt;&lt;span style='font-size:smaller'&gt; code_portfolio1.tag_sémantique1.&lt;i&gt;label;&lt;/i&gt;code_portfolio2.tag_sémantique2.&lt;i&gt;label&lt;/i&gt;&lt;br&gt; Mot réservé pour code_portfolio : &lt;i&gt;self&lt;/i&gt;&lt;/span&gt;</string>
+  <string comment="METADATA" name="queryGet_Proxy" quotation="true">Recherche &lt;br/&gt;&lt;span style='font-size:smaller'&gt; code_portfolio.tag_sémantique.&lt;i&gt;label&lt;/i&gt;/tag_sémantique_cible</string>
+  <string comment="METADATA" name="queryGet_Portfolio" quotation="true">Recherche &lt;br/&gt;&lt;span style='font-size:smaller'&gt; code_portfolio.&lt;i&gt;label&lt;/i&gt; ou laisser vide pour tous les portfolios</string>
+  <string comment="METADATA" name="shownoderoles" quotation="true">Montrer</string>
+  <string comment="METADATA" name="showroles" quotation="true">Montrer à</string>
+  <string comment="METADATA" name="notifyroles" quotation="true">Notifier à</string>
+  <string comment="METADATA" name="graphicerroles" quotation="true">Graphiqueur</string>
+  <string comment="METADATA" name="contentfreenode" quotation="true">Conteneur plac. libre</string>
+  <string comment="METADATA" name="freenode" quotation="true">Placement libre</string>
+  <string comment="METADATA" name="display" quotation="true">Visible</string>
+  <string comment="METADATA" name="veriffunction" quotation="true">Fonction de vérification</string>
+  <string comment="METADATA" name="menuroles" quotation="true">Menus&lt;br/&gt;&lt;span style='font-size:smaller'&gt; code_portfolio,tag_sémantique,</string>
+  <string comment="METADATA" name="menuroles2" quotation="true">libellé@fr</string>
+  <string comment="METADATA" name="menuroles3" quotation="true">,rôles[;autre menu]&lt;/span&gt;</string>
+  <string comment="METADATA" name="menulabels" quotation="true">Texte bouton Menu&lt;br/&gt;&lt;span style='font-size:smaller'&gt;</string>
+  <string comment="METADATA" name="menulabels2" quotation="true">libellé@fr</string>
+  <string comment="METADATA" name="menulabels3" quotation="true">,rôles[;autre libellé]&lt;/span&gt;</string>
+  <string comment="METADATA" name="help" quotation="true">Bulle d'aide &lt;br/&gt;&lt;span style='font-size:smaller'&gt;</string>
+  <string comment="METADATA" name="help2" quotation="true">texte en français@fr</string>
+  <string comment="METADATA" name="help3" quotation="true">[,rôle]&lt;/span&gt;</string>
+  <string comment="METADATA" name="error" quotation="true">Message si parent non sélectionné &lt;br/&gt;&lt;span style='font-size:smaller'&gt;</string>
+  <string comment="METADATA" name="error2" quotation="true">texte en français@fr</string>
+  <string comment="METADATA" name="error3" quotation="true">[,rôle]&lt;/span&gt;</string>
+  <string comment="METADATA" name="font-size" quotation="true">Taille police (px)</string>
+  <string comment="METADATA" name="font-weight" quotation="true">Poids de la police</string>
+  <string comment="METADATA" name="font-style" quotation="true">Style de la police</string>
+  <string comment="METADATA" name="color" quotation="true">Couleur de la police</string>
+  <string comment="METADATA" name="cssclass" quotation="true">Classe CSS</string>
+  <string comment="METADATA" name="top" quotation="true">Position - Haut</string>
+  <string comment="METADATA" name="left" quotation="true">Position - Gauche</string>
+  <string comment="METADATA" name="width" quotation="true">Largeur (px)</string>
+  <string comment="METADATA" name="height" quotation="true">Hauteur (px)</string>
+  <string comment="METADATA" name="public" quotation="true">Portfolio Public</string>
+  <string comment="METADATA" name="text-align" quotation="true">Alignement</string>
+  <string comment="METADATA" name="displayview" quotation="true">Type de vue</string>
+  <string comment="METADATA" name="displayitselforg" quotation="true">Largeur d'affichage</string>
+  <string comment="METADATA" name="displaychildorg" quotation="true">Type d'affichage du contenu</string>
+  <string comment="METADATA" name="margin-top" quotation="true">Marge supérieure (px)</string>
+  <string comment="METADATA" name="menus-color" quotation="true">Couleur des menus, boutons et +/-</string>
+  <string comment="METADATA" name="sharedResource" quotation="true">Ressource partagée</string>
+  <string comment="METADATA" name="sharedNodeResource" quotation="true">Ress. du noeud partagée</string>
+  <string comment="METADATA" name="resizeroles" quotation="true">Modifier taille image</string>
+  <string comment="METADATA" name="img-size" quotation="true">Taille image</string>
+  <string comment="METADATA" name="inline" quotation="true">Édition en place</string>
+  <string comment="METADATA" name="reloadpage" quotation="true">Recharger la page</string>
+  <string comment="METADATA" name="edittargetroles" quotation="true">Éditer cible proxy</string>
+  <string comment="METADATA" name="showroles" quotation="true">Montrer/Cacher</string>
+  <string comment="METADATA" name="showtoroles" quotation="true">Montrer à</string>
+  <string comment="METADATA" name="private" quotation="true">Caché</string>
+  <string comment="METADATA" name="hide-metainfo" quotation="true">Cacher metadata</string>
+  <string comment="METADATA" name="show-metainfo" quotation="true">Montrer metadata</string>
+  <string comment="METADATA" name="padding-top" quotation="true">Espace avant (px)</string>
+  <string comment="METADATA" name="background-color" quotation="true">Couleur du fond</string>
+  <string comment="METADATA" name="moveroles" quotation="true">Ordonner</string>
+  <string comment="METADATA" name="movein" quotation="true">Déplacer dans</string>
+  <string comment="METADATA" name="moveinroles" quotation="true">Déplacer</string>
+  <string comment="METADATA" name="othercss" quotation="true">Autres instructions CSS</string>
+  <string comment="METADATA" name="cssfile" quotation="true">Fichier CSS</string>
+  <string comment="METADATA" name="display-type" quotation="true">Type de présentation</string>
+  <string comment="METADATA" name="layout" quotation="true">Disposition</string>
+  <string comment="METADATA" name="node" quotation="true">Noeud</string>
+  <string comment="METADATA" name="node-content" quotation="true">Contenu du noeud</string>
+  <string comment="METADATA" name="node-label" quotation="true">Libellé du noeud</string>
+  <string comment="METADATA" name="resource" quotation="true">Ressource</string>
+  <string comment="METADATA" name="metadata" quotation="true">Métadonnées</string>
+  <string comment="METADATA" name="css-styles" quotation="true">Présentation</string>
+  <string comment="METADATA" name="inparent" quotation="true">Dans le parent</string>
+  <string comment="METADATA" name="encrypted" quotation="true">Encrypter la ressource</string>
+  <string comment="METADATA" name="get_rc4key" quotation="true">Des parties de ce document sont encryptées.\nPremière visite : Choisissez une phrase clé.\nVisites suivantes : Tapez votre phrase clé.</string>
+  <string comment="METADATA" name="error_rc4key" quotation="true">Erreur de phrase clé.</string>
+  <string comment="METADATA" name="seltype" quotation="true">Présentation </string>
+  <string comment="METADATA" name="shareroles" quotation="true">Partager&lt;br/&gt;&lt;span style='font-size:smaller'&gt; rôle qui partage,rôle visiteur,rôles et/ou courriels destinataires,niveau (0-4),durée de vie du lien (en heures),</string>
+  <string comment="METADATA" name="shareroles2" quotation="true">libellé du bouton@fr</string>
+  <string comment="METADATA" name="shareroles3" quotation="true">[,condition][;autre partage]</string>
+  <string comment="METADATA" name="textssubmit" quotation="true">Textes de Soumission</string>
+  <string comment="METADATA" name="submitted" quotation="true">Soumis le </string>
+  <string comment="METADATA" name="notsubmitted" quotation="true">Non soumis</string>
+  <string comment="METADATA" name="collapsible" quotation="true">Repliable</string>
+  <string comment="METADATA" name="incrementroles" quotation="true">Incrémenter seulement</string>
+  <string comment="METADATA" name="hide-button" quotation="true">Cacher édition</string>
+  <string comment="METADATA" name="show-button" quotation="true">Montrer édition</string>
+  <string comment="METADATA" name="share" quotation="true">Partage</string>
+  <string comment="METADATA" name="sharetoroles" quotation="true">Partager</string>
+  <string comment="METADATA" name="sharetoemail" quotation="true">Partager avec</string>
+  <string comment="METADATA" name="sharelabel" quotation="true">Libelle du bouton</string>
+  <string comment="METADATA" name="sharelevel" quotation="true">Niveau de partage 0-4</string>
+  <string comment="METADATA" name="shareduration" quotation="true">Validité du lien (en heures)</string>
+  <string comment="METADATA" name="sharewithrole" quotation="true">Destinataire</string>
+  <string comment="METADATA" name="maxchar" quotation="true">Min Caractères</string>
+  <string comment="METADATA" name="maxword" quotation="true">Max Mots</string>
+  <string comment="METADATA" name="maxword-alert" quotation="true">Vous avez atteint la limite de mots autorisés. Les mots supplémentaires ne seront pas sauvés</string>
+  <string comment="METADATA" name="csstext" quotation="true">CSS</string>
+  <string comment="METADATA" name="seeqrcoderoles" quotation="true">Voir QR Code et URL</string>
+  <string comment="METADATA" name="export-pdf" quotation="true">Exporter PDF</string>
+  <string comment="METADATA" name="export-rtf" quotation="true">Exporter RTF</string>
+  <string comment="METADATA" name="export-htm" quotation="true">Exporter HTML</string>
+  <string comment="METADATA" name="list-semtags" quotation="true">Liste des tags sémantiques</string>
+  <string comment="METADATA" name="printroles" quotation="true">Imprimer</string>
+  <string comment="METADATA" name="duration" quotation="true">Durée de vie du lien (en heures)</string>
+  <string comment="METADATA" name="seestart" quotation="true">Voir - Date début</string>
+  <string comment="METADATA" name="seeend" quotation="true">Voir - Date fin</string>
+  <string comment="METADATA" name="logcode" quotation="true">Code Log</string>
+  <string comment="METADATA" name="js" quotation="true">Fonction js</string>
+  <string comment="METADATA" name="alt" quotation="true">Texte alternatif</string>
+  <string comment="METADATA" name="node-comment" quotation="true">Commentaires du noeud</string>
+  <string comment="METADATA" name="autoload" quotation="true">Autoload</string>
+  <string comment="METADATA" name="defaultrole" quotation="true">Rôle par défaut</string>
+  <string comment="METADATA" name="langnotvisible" quotation="true">Non visible en</string>
+  <string comment="METADATA" name="menulabel" quotation="true">Libellé du menu</string>
+  <string comment="METADATA" name="itemlabel" quotation="true">Libellé de l'item de menu</string>
+  <string comment="METADATA" name="folder" quotation="true">Dossier</string>
+  <string comment="METADATA" name="foliocode" quotation="true">Code du portfolio</string>
+  <string comment="METADATA" name="semtag" quotation="true">Tag sémantique</string>
+  <string comment="METADATA" name="parent-semtag" quotation="true">Tag sémantique du parent</string>
+  <string comment="METADATA" name="itemtype" quotation="true">Type d'item</string>
+  <string comment="METADATA" name="roles" quotation="true">Rôles</string>
+  <string comment="METADATA" name="position" quotation="true">Position de recherche</string>
+  <string comment="METADATA" name="parentsemtag" quotation="true">Tag sémantique du parent</string>
+  <string comment="METADATA" name="condition" quotation="true">Condition</string>
+  <string comment="METADATA" name="boxlabel" quotation="true">Libellé de la boîte d'édition</string>
+  <string comment="METADATA" name="updatedtag" quotation="true">Tag sémantique à mettre à jour</string>
+  <string comment="METADATA" name="target" quotation="true">Tag sémantique où importer</string>
+  <string comment="METADATA" name="object" quotation="true">Élément à rechercher</string>
+  <string comment="METADATA" name="start-semtag" quotation="true">Tag sémantique de départ</string>
+  <string comment="METADATA" name="destination-semtag" quotation="true">Tag sémantique d'arrivée</string>
+  <string comment="METADATA" name="audio-record-only" quotation="true">Enregistrement seulement</string>
+  <string comment="METADATA" name="unique" quotation="true">Sans doublons</string>
+  <string comment="ADMIN" name="list_portfolios" quotation="true">Portfolios</string>
+  <string comment="ADMIN" name="list_users" quotation="true">Usagers</string>
+  <string comment="ADMIN" name="list_user_portfolio" quotation="true">Portfolios de </string>
+  <string comment="ADMIN" name="list_roles" quotation="true">Rôles</string>
+  <string comment="ADMIN" name="list_groups" quotation="true">Groupes</string>
+  <string comment="ADMIN" name="create-test-user" quotation="true">Créer un utilisateur test</string>
+  <string comment="ADMIN" name="help_text_rename" quotation="true">Pour déplacer un portfolio dans un autre dossier, changez le code de dossier (partie avant le point)</string>
+  <string comment="ADMIN" name="users-folders" quotation="true">Dossiers</string>
+  <string comment="ADMIN" name="users-groups" quotation="true">Groupes</string>
+  <string comment="ADMIN" name="users-in-rootfolder" quotation="true">Usagers hors dossier</string>
+  <string comment="ADMIN" name="and-content" quotation="true">et son contenu.</string>
+  <string comment="PORTFOLIOS" name="portfolios-not-in-project" quotation="true">Portfolios</string>
+  <string comment="PORTFOLIOS" name="portfolios" quotation="true">Portfolios</string>
+  <string comment="PORTFOLIOS" name="portfolio" quotation="true">Mon portfolio</string>
+  <string comment="PORTFOLIOS" name="nogroup" quotation="true">Aucun groupe associé</string>
+  <string comment="PORTFOLIOS" name="karuta.model" quotation="true">Créer un modèle de portfolio</string>
+  <string comment="PORTFOLIOS" name="code_portfolio" quotation="true">Code du portfolio</string>
+  <string comment="PORTFOLIOS" name="import_portfolio" quotation="true">Importer un modèle &lt;b&gt;.xml&lt;/b&gt;</string>
+  <string comment="PORTFOLIOS" name="import_zip" quotation="true">Importer un modèle ou dossier &lt;b&gt;.zip&lt;/b&gt;</string>
+  <string comment="PORTFOLIOS" name="instantiate_portfolio" quotation="true">Instancier un portfolio</string>
+  <string comment="PORTFOLIOS" name="button-instantiate" quotation="true">Instancier</string>
+  <string comment="PORTFOLIOS" name="unshare" quotation="true">Départager</string>
+  <string comment="PORTFOLIOS" name="addshare" quotation="true">Partager</string>
+  <string comment="PORTFOLIOS" name="shared" quotation="true">Partages</string>
+  <string comment="PORTFOLIOS" name="unshared" quotation="true">Départages</string>
+  <string comment="PORTFOLIOS" name="noshared" quotation="true">Aucun Partage</string>
+  <string comment="PORTFOLIOS" name="sharing" quotation="true">Partager</string>
+  <string comment="PORTFOLIOS" name="sharing_with_designers" quotation="true">Partager avec des designers</string>
+  <string comment="PORTFOLIOS" name="unsharing" quotation="true">Départager</string>
+  <string comment="PORTFOLIOS" name="export" quotation="true">Exporter</string>
+  <string comment="PORTFOLIOS" name="export-project" quotation="true">Exporter le dossier</string>
+  <string comment="PORTFOLIOS" name="archive-project" quotation="true">Archiver le dossier</string>
+  <string comment="PORTFOLIOS" name="nbeltsperarchive" quotation="true">Nombre d'éléments par archive</string>
+  <string comment="PORTFOLIOS" name="export-with-files" quotation="true">Exporter avec fichiers</string>
+  <string comment="PORTFOLIOS" name="button-duplicate" quotation="true">Dupliquer</string>
+  <string comment="PORTFOLIOS" name="getPDF" quotation="true">Créer PDF</string>
+  <string comment="PORTFOLIOS" name="getRTF" quotation="true">Créer RTF</string>
+  <string comment="PORTFOLIOS" name="getWebsite" quotation="true">Exporter site Web</string>
+  <string comment="PORTFOLIOS" name="owner" quotation="true">Propriétaire</string>
+  <string comment="PORTFOLIOS" name="portfolios-admin" quotation="true">Portfolios</string>
+  <string comment="PORTFOLIOS" name="bin-admin" quotation="true">Poubelle</string>
+  <string comment="PORTFOLIOS" name="import_instance" quotation="true">Importer une instance de portfolio &lt;b&gt;.xml&lt;/b&gt;</string>
+  <string comment="PORTFOLIOS" name="remove-selection" quotation="true">Déplacer vers la poubelle</string>
+  <string comment="PORTFOLIOS" name="delete-selection" quotation="true">Détruire</string>
+  <string comment="PORTFOLIOS" name="import_zip_instance" quotation="true">Importer une instance de portfolio ou dossier &lt;b&gt;.zip&lt;/b&gt;</string>
+  <string comment="PORTFOLIOS" name="rename-move" quotation="true">Renommer ou déplacer</string>
+  <string comment="PORTFOLIOS" name="rename" quotation="true">Renommer</string>
+  <string comment="PORTFOLIOS" name="karuta.batch" quotation="true">Créer un batch</string>
+  <string comment="PORTFOLIOS" name="karuta.batch-form" quotation="true">Créer un modèle de formulaire batch</string>
+  <string comment="PORTFOLIOS" name="karuta.report" quotation="true">Créer un rapport</string>
+  <string comment="PORTFOLIOS" name="create_tree" quotation="true">Créer un arbre vide</string>
+  <string comment="PORTFOLIOS" name="create_project" quotation="true">Créer un dossier</string>
+  <string comment="PORTFOLIOS" name="karuta.rubrics" quotation="true">Créer un référentiel</string>
+  <string comment="PORTFOLIOS" name="karuta.parts" quotation="true">Créer des composantes</string>
+  <string comment="PORTFOLIOS" name="welcome-add" quotation="true">Ajouter la page de bienvenue</string>
+  <string comment="PORTFOLIOS" name="welcome-added" quotation="true">La page de bienvenue a été ajoutée à la fin du modèle de porfolio.&lt;br&gt;Montez la en première position.</string>
+  <string comment="PORTFOLIOS" name="button-welcome-edit" quotation="true">Éditer la page de bienvenue</string>
+  <string comment="PORTFOLIOS" name="existing-code" quotation="true">Ce code existe déjà.</string>
+  <string comment="PORTFOLIOS" name="search-label" quotation="true">Saissisez un code ou une partie du code</string>
+  <string comment="PORTFOLIOS" name="no-portfolio" quotation="true"/>
+  <string comment="PORTFOLIOS" name="search-username-label" quotation="true">Saissisez un login ou une partie du login</string>
+  <string comment="PORTFOLIOS" name="search-firstname-label" quotation="true">Saissisez un prénom ou une partie du prénom</string>
+  <string comment="PORTFOLIOS" name="search-lastname-label" quotation="true">Saissisez un nom ou une partie du nom</string>
+  <string comment="PORTFOLIOS" name="username-label" quotation="true">Login</string>
+  <string comment="PORTFOLIOS" name="firstname-label" quotation="true">Prénom</string>
+  <string comment="PORTFOLIOS" name="lastname-label" quotation="true">Nom</string>
+  <string comment="PORTFOLIOS" name="changeOwner" quotation="true">Changer le propriétaire</string>
+  <string comment="PORTFOLIOS" name="add-configpage" quotation="true">Ajouter la nouvelle page de configuration</string>
+  <string comment="PORTFOLIOS" name="add-newwelcomepage" quotation="true">Ajouter la nouvelle page de bienvenue</string>
+  <string comment="PORTFOLIOS" name="search-portfolio-text" quotation="true">Recherche ...</string>
+  <string comment="PORTFOLIOS" name="result-title" quotation="true">Résultats de la recherche pour : </string>
+  <string comment="PORTFOLIOS" name="result-subtitle" quotation="true">La recherche est sensible à la casse.</string>
+  <string comment="PORTFOLIOS" name="result-nb" quotation="true">Nombre de pages : </string>
+  <string comment="PORTFOLIOS" name="refresh-url2unit" quotation="true">Actualiser les URL2Units</string>
+  <string comment="PORTFOLIOS" name="refresh-url2portfolio" quotation="true">Actualiser les URL2Portfolios</string>
+  <string comment="PORTFOLIOS" name="label-not-multilingual" quotation="true">Libellé non multilingue</string>
+  <string comment="PORTFOLIOS" name="resource-not-multilingual" quotation="true">Ressource non multilingue</string>
+  <string comment="FOLDERS" name="folders" quotation="true">Dossiers</string>
+  <string comment="FOLDERS" name="next" quotation="true">Suivant &gt;</string>
+  <string comment="FOLDERS" name="prev" quotation="true">&lt; Précédent</string>
+  <string comment="FOLDERS" name="karuta.folder" quotation="true">Créer un dossier de portfolios</string>
+  <string comment="FOLDERS" name="create_folder" quotation="true">Créer un dossier</string>
+  <string comment="FOLDERS" name="create_subfolder" quotation="true">Créer un sous-dossier</string>
+  <string comment="FOLDERS" name="parent_code" quotation="true">Code du parent</string>
+  <string comment="FOLDERS" name="folder_code" quotation="true">Code du dossier</string>
+  <string comment="FOLDERS" name="setrights" quotation="true">Distinguer modèle &lt;i class='far fa-file-alt'&gt;&lt;/i&gt; et instance  &lt;i class='fas fa-file-alt'&gt;&lt;/i&gt;</string>
+  <string comment="USERS" name="create_account" quotation="true">Créer un compte</string>
+  <string comment="USERS" name="create_user" quotation="true">Ajouter un usager</string>
+  <string comment="USERS" name="active_users" quotation="true">Usagers actifs</string>
+  <string comment="USERS" name="inactive_users" quotation="true">Usagers inactifs</string>
+  <string comment="USERS" name="temporary_users" quotation="true">Usagers temporaires</string>
+  <string comment="USERS" name="empty_users" quotation="true">Usagers sans portfolio</string>
+  <string comment="USERS" name="warning-empty-users" quotation="true">ATTENTION : Le temps de traitement pour les usagers sans portfolios peut-être très long</string>
+  <string comment="USERS" name="username" quotation="true">Login</string>
+  <string comment="USERS" name="lastname" quotation="true">Nom</string>
+  <string comment="USERS" name="firstname" quotation="true">Prénom</string>
+  <string comment="USERS" name="email" quotation="true">Courriel</string>
+  <string comment="USERS" name="change_password" quotation="true">Changer le mot de passe</string>
+  <string comment="USERS" name="change_name" quotation="true">Changer vos prénom et nom</string>
+  <string comment="USERS" name="password" quotation="true">Mot de passe</string>
+  <string comment="USERS" name="new_password" quotation="true">Nouveau mot de passe</string>
+  <string comment="USERS" name="admin" quotation="true">Admin</string>
+  <string comment="USERS" name="designer" quotation="true">Créateur</string>
+  <string comment="USERS" name="active" quotation="true">Actif</string>
+  <string comment="USERS" name="select_users" quotation="true">Sélectionner des usagers</string>
+  <string comment="USERS" name="projects-admin" quotation="true">dossiers</string>
+  <string comment="USERS" name="portfolios-admin" quotation="true">Portfolios</string>
+  <string comment="USERS" name="bin-admin" quotation="true">Poubelle</string>
+  <string comment="USERS" name="substitute" quotation="true">Substitution</string>
+  <string comment="USERS" name="select_user" quotation="true">Selectionner un usager</string>
+  <string comment="USERS" name="other" quotation="true">Autre</string>
+  <string comment="USERS" name="delete-temporary-users" quotation="true">Supprimer tous</string>
+  <string comment="USERS" name="delete-empty-users" quotation="true">Supprimer la sélection</string>
+  <string comment="USERS" name="c-a-s" quotation="true">C/A/S</string>
+  <string comment="USERS" name="too-much-users" quotation="true">Il y a plus de 200 usagers actifs. Cliquez sur le bouton 'Voir' pour les afficher ou faites une recherche ci-dessus</string>
+  <string comment="ROLES" name="select_role" quotation="true">Sélectionner un rôle</string>
+  <string comment="BATCH" name="batch" quotation="true">Exécuter un script de batch &lt;span style='font-size:70%' class='badge badge-secondary'&gt;Utiliser Firefox pour suivre l'exécution du batch&lt;/span&gt;</string>
+  <string comment="BATCH" name="upload_csv" quotation="true">Téléverser un fichier CSV</string>
+  <string comment="BATCH" name="process_csv" quotation="true">Exécuter</string>
+  <string comment="BATCH" name="create_user_portfolios" quotation="true">Créer un usager et ses portfolios</string>
+  <string comment="REPORT" name="report" quotation="true">Exécuter un script de rapport</string>
+  <string comment="REPORT" name="upload_csv_or_code" quotation="true">Téléverser un fichier CSV ou Saisir un code de modèle</string>
+  <string comment="REPORT" name="model_code" quotation="true">Code du modèle</string>
+  <string comment="REPORT" name="report-elt-disabled" quotation="true">désactivé</string>
+  <string comment="REPORT" name="next" quotation="true">Suivant</string>
+  <string comment="RESOURCE" name="no-image" quotation="true">Aucune image</string>
+  <string comment="RESOURCE" name="no-document" quotation="true">Aucun document</string>
+  <string comment="RESOURCE" name="no-URL" quotation="true">Aucun hyperlien</string>
+  <string comment="RESOURCE" name="no-URL2Unit" quotation="true">Aucune cible</string>
+  <string comment="RESOURCE" name="subject" quotation="true">Objet</string>
+  <string comment="RESOURCE" name="message" quotation="true">Message</string>
+  <string comment="RESOURCE" name="email-sent" quotation="true">Le message a été envoyé.</string>
+  <string comment="RESOURCE" name="alternative-label" quotation="true">Libellé alternatif</string>
+  <string comment="RESOURCE" name="sent-by" quotation="true">Envoyé par</string>
+  <string comment="RESOURCE" name="dashboard-code" quotation="true">Code du portfolio rapport</string>
+  <string comment="RESOURCE" name="report-code" quotation="true">Code du rapport</string>
+  <string comment="RESOURCE" name="csv" quotation="true">Rôles - Bouton CSV</string>
+  <string comment="RESOURCE" name="pdf" quotation="true">Rôles - Bouton PDF</string>
+  <string comment="RESOURCE" name="rtf" quotation="true">Rôles - Bouton RTF</string>
+  <string comment="RESOURCE" name="img" quotation="true">Rôles - Bouton PNG</string>
+  <string comment="RESOURCE" name="document-required" quotation="true">Vous devez spécifier un document avant de le soumettre !</string>
+  <string comment="RESOURCE" name="size-upload" quotation="true">Votre fichier est trop volumineux : seuls les fichiers de moins de " + g_configVar['maxfilesizeupload'] + " Mo sont autorisés !</string>
+  <string comment="RESOURCE" name="local-label" quotation="true">Libellé local</string>
+  <string comment="EUROPASS" name="mother-tongue" quotation="true">Langue maternelle</string>
+  <string comment="EUROPASS" name="foreign-languages" quotation="true">Langues étrangères</string>
+  <string comment="EUROPASS" name="add-foreign-language" quotation="true">Ajouter une langue étrangère</string>
+  <string comment="EUROPASS" name="understanding" quotation="true">COMPRENDRE</string>
+  <string comment="EUROPASS" name="listening" quotation="true">Écouter</string>
+  <string comment="EUROPASS" name="reading" quotation="true">Lire</string>
+  <string comment="EUROPASS" name="speaking" quotation="true">PARLER</string>
+  <string comment="EUROPASS" name="spoken-interaction" quotation="true">Prendre part à une conversation</string>
+  <string comment="EUROPASS" name="spoken-production" quotation="true">S&amp;#39;exprimer oralement en continu</string>
+  <string comment="EUROPASS" name="writing" quotation="true">ÉCRIRE</string>
+  <string comment="BUBBLE MAP" name="leave-edit-mode" quotation="true">Quitter le mode d'édition</string>
+  <string comment="BUBBLE MAP" name="bubble-label" quotation="true">Libellé</string>
+  <string comment="BUBBLE MAP" name="bubble-links" quotation="true">Liens</string>
+  <string comment="BUBBLE MAP" name="bubble-information" quotation="true">Information</string>
+  <string comment="BUBBLE MAP" name="bubble-add-link" quotation="true">Ajouter un lien</string>
+  <string comment="BUBBLE MAP" name="bubble-add-bubble" quotation="true">Ajouter une bulle à </string>
+  <string comment="BUBBLE MAP" name="bubble-weight" quotation="true">Pondération</string>
+  <string comment="BUBBLE MAP" name="bubble-color" quotation="true">Couleur</string>
+  <string comment="BUBBLE MAP" name="bubble-level" quotation="true">Niveau</string>
+  <string comment="BUBBLE MAP" name="bubble-share-map" quotation="true">Partager: </string>
+  <string comment="BUBBLE MAP" name="bubble-share-link" quotation="true">lien web</string>
+  <string comment="BUBBLE MAP" name="bubble-share-qrcode" quotation="true">QR Code</string>
+  <string comment="GROUPS" name="select_usersgroups" quotation="true">Sélectionner des groupes d'usagers</string>
+  <string comment="GROUPS" name="create_usersgroup" quotation="true">Créer un groupe d'usagers</string>
+  <string comment="GROUPS" name="list_usersgroups" quotation="true">Groupes d'usagers</string>
+  <string comment="GROUPS" name="no_group" quotation="true">Aucun group</string>
+  <string comment="GROUPS" name="addshare-portfoliosgroups" quotation="true">Partager des groupes de portfolios</string>
+  <string comment="GROUPS" name="addshare-portfolios" quotation="true">Partager des Portfolios</string>
+  <string comment="GROUPS" name="addshare-usersgroups" quotation="true">Partager avec des groupes d'usagers</string>
+  <string comment="GROUPS" name="addshare-users" quotation="true">Partager avec des usagers</string>
+  <string comment="GROUPS" name="confirm-remove-user-group" quotation="true">Voulez-vous vraiment retirer cet usager du group ? Cette action est irréversible.</string>
+  <string comment="GROUPS" name="empty-group" quotation="true">Groupe vide</string>
+  <string comment="GROUPS" name="list_portfoliosgroups" quotation="true">Groupes de portfolios</string>
+  <string comment="GROUPS" name="note-list_portfoliosgroups" quotation="true">Attention - Les dossiers contenants les portfolios doivent être ouverts dans la page des portfolios</string>
+  <string comment="GROUPS" name="note-list_usergroups" quotation="true">Attention - Les usagers ne doivent pas être filtrés dans la page Usagers</string>
+  <string comment="GROUPS" name="confirm-remove-item-group" quotation="true">Voulez-vous vraiment retirer cet élément du groupe ? Cette action est irréversible.</string>
+  <string comment="GROUPS" name="add_users" quotation="true">Ajouter des usagers</string>
+  <string comment="GROUPS" name="add_portfolios" quotation="true">Ajouter des portfolios</string>
+  <string comment="GROUPS" name="select_groups" quotation="true">Sélectionner des groupes</string>
+  <string comment="GROUPS" name="select_portfoliosgroups" quotation="true">Sélectionner des groupes de portfolios</string>
+  <string comment="GROUPS" name="create_portfoliosgroup" quotation="true">Créer un groupe de portfolios</string>
+  <string comment="GROUPS" name="button-remove-from-group" quotation="true">Retirer de ce groupe</string>
+  <string comment="ERRORS" name="code-not-null" quotation="true">Le code ne peut pas être vide</string>
+  <string comment="ERRORS" name="label-not-null" quotation="true">Le libellé ne peut pas être vide</string>
+  <string comment="ERRORS" name="inexistent-selection" quotation="true">Sélection inexistante</string>
+  <string comment="ERRORS" name="inexistent-user" quotation="true">Désolé. Votre login n'a pas été trouvé.</string>
+  <string comment="ERRORS" name="not-number" quotation="true">Ce n'est pas un nombre.</string>
+  <string comment="TECHNICAL SUPPORT" name="technical_support" quotation="true">Support technique</string>
+  <string comment="TECHNICAL SUPPORT" name="application-server" quotation="true">Application</string>
+  <string comment="TECHNICAL SUPPORT" name="user-name" quotation="true">Votre nom</string>
+  <string comment="TECHNICAL SUPPORT" name="user-email" quotation="true">Votre courriel</string>
+  <string comment="TECHNICAL SUPPORT" name="email-message" quotation="true">Message</string>
+  <string comment="RESOURCES" name="asmRoot" quotation="true">Root</string>
+  <string comment="RESOURCES" name="asmStructure" quotation="true">Section</string>
+  <string comment="RESOURCES" name="asmUnit" quotation="true">Page</string>
+  <string comment="RESOURCES" name="asmUnitStructure" quotation="true">Sous-section</string>
+  <string comment="RESOURCES" name="TextField" quotation="true">Texte long</string>
+  <string comment="RESOURCES" name="Field" quotation="true">Texte court</string>
+  <string comment="RESOURCES" name="URL" quotation="true">URL</string>
+  <string comment="RESOURCES" name="Document" quotation="true">Document</string>
+  <string comment="RESOURCES" name="Calendar" quotation="true">Calendrier</string>
+  <string comment="RESOURCES" name="Image" quotation="true">Image</string>
+  <string comment="RESOURCES" name="Video" quotation="true">Vidéo</string>
+  <string comment="RESOURCES" name="Audio" quotation="true">Audio</string>
+  <string comment="RESOURCES" name="Oembed" quotation="true">oEmbed</string>
+  <string comment="RESOURCES" name="Color" quotation="true">Couleur</string>
+  <string comment="RESOURCES" name="URL2Unit" quotation="true">URL2Unit</string>
+  <string comment="RESOURCES" name="URL2Portfolio" quotation="true">URL2Portfolio</string>
+  <string comment="RESOURCES" name="Comments" quotation="true">Commentaires</string>
+  <string comment="RESOURCES" name="SendEmail" quotation="true">Envoi courriel</string>
+  <string comment="RESOURCES" name="Dashboard" quotation="true">Tableau de bord</string>
+  <string comment="RESOURCES" name="Report" quotation="true">Rapport différé</string>
+  <string comment="RESOURCES" name="BatchForm" quotation="true">BatchForm</string>
+  <string comment="RESOURCES" name="DocumentBlock" quotation="true">DocumentBlock</string>
+  <string comment="RESOURCES" name="URLBlock" quotation="true">URLBlock</string>
+  <string comment="RESOURCES" name="ImageBlock" quotation="true">ImageBlock</string>
+  <string comment="RESOURCES" name="URL2UnitBlock" quotation="true">URL2UnitBlock</string>
+  <string comment="RESOURCES" name="URL2PortfolioBlock" quotation="true">URL2PortfolioBlock</string>
+  <string comment="RESOURCES" name="TextFieldBlock" quotation="true">TextFieldBlock</string>
+  <string comment="RESOURCES" name="BubbleMap" quotation="true">BubbleMap</string>
+  <string comment="RESOURCES" name="Europass" quotation="true">Europass</string>
+  <string comment="RESOURCES" name="Item" quotation="true">Item</string>
+  <string comment="RESOURCES" name="Get_Resource" quotation="true">GetResource</string>
+  <string comment="RESOURCES" name="Get_Get_Resource" quotation="true">GetGetResource</string>
+  <string comment="RESOURCES" name="Get_Double_Resource" quotation="true">GetDoubleResource</string>
+  <string comment="RESOURCES" name="Proxy" quotation="true">Proxy</string>
+  <string comment="RESOURCES" name="Get_Proxy" quotation="true">GetProxy</string>
+  <string comment="RESOURCES" name="Get_Portfolio" quotation="true">GetPortfolio</string>
+  <string comment="RESOURCES" name="Variable" quotation="true">Variable</string>
+  <string comment="RESOURCES" name="var-name" quotation="true">Nom de la variable</string>
+  <string comment="RESOURCES" name="var-value" quotation="true">Valeur de la variable</string>
+  <string comment="RESOURCES" name="asmColumn" quotation="true">asmColumn</string>
+  <string comment="RESOURCES" name="startday" quotation="true">Moment d'exécution</string>
+  <string comment="RESOURCES" name="time" quotation="true">Heure (HH:MM)</string>
+  <string comment="RESOURCES" name="freq" quotation="true">Fréquence</string>
+  <string comment="RESOURCES" name="execroles" quotation="true">Rôles - Exécuter</string>
+  <string comment="RESOURCES" name="exec" quotation="true">Re-exécuter maintenant</string>
+  <string comment="RESOURCES" name="uploaded-by" quotation="true">Téléversé par</string>
+  <string comment="RESOURCES" name="date" quotation="true">Date</string>
+  <string comment="RESOURCES" name="file" quotation="true">Fichier</string>
+  <string comment="RESOURCES" name="coverage" quotation="true">Couverture</string>
+  <string comment="LOGIN" name="connection-cas1" quotation="true">Connexion avec un compte universitaire</string>
+  <string comment="LOGIN" name="connection-cas2" quotation="true">Connexion hors compte universitaire</string>
+</resources>
