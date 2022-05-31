@@ -1,0 +1,3 @@
+files:
+  - source: /xml_sources/locale_en.xml
+    translation: /xml_translated/locale_%two_letters_code%.xml
