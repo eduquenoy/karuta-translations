@@ -1,3 +1,6 @@
 
 .DS_Store
 js/locale_fr.js
+js_sources/locale_es.js
+js_sources/locale_es_VA.js
+js_sources/locale_ja.js
