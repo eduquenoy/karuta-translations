@@ -102,6 +102,10 @@
   <string comment="General" name="waitreport" quotation="true">Wait, the report is executed on the server. Come back in a few minutes to view the report.</string>
   <string comment="General" name="instruction-export-menu" quotation="true">Copy the menu and paste it where you want to import it.</string>
   <string comment="General" name="back" quotation="true">Click to go back</string>
+  <string comment="General" name="select-deselect" quotation="true">Select/Deselect All</string>
+  <string comment="General" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
+  <string comment="General" name="select-deselect" quotation="true">Select/Deselect All</string>
+  <string comment="General" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
   <string comment="ERRORS" name="error-existing-code" quotation="true">ERROR - The code already exists. Please choose another one.</string>
   <string comment="ERRORS" name="error-existing-login" quotation="true">ERROR - The login already exists or an input is invalid. Please choose another login or check input fields.</string>
   <string comment="ERRORS" name="error-empty-code" quotation="true">ERROR - The code cannot be empty.</string>
