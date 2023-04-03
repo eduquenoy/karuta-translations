@@ -75,10 +75,6 @@
   <string comment="GENERAL" name="new-account" quotation="true">No en té conte? &lt;a href=\'createAccount.htm?lang=es_VA\'&gt;Enregistra\'t!&lt;/a&gt;</string>
   <string comment="GENERAL" name="sign-up" quotation="true">Enregistra\'t!</string>
   <string comment="GENERAL" name="disconnected" quotation="true">Ho sentim! S\'ha desconectat per accident</string>
-  <string comment="GENERAL" name="demo-documentation" quotation="true">Importar documentació de Karuta</string>
-  <string comment="GENERAL" name="demo-ecommerce" quotation="true">Importar Portfolios d\'eCommerce de demostració</string>
-  <string comment="GENERAL" name="demo-aacu" quotation="true">Importar Portfolios AACU de demostració</string>
-  <string comment="GENERAL" name="demo-video" quotation="true">Importar Vídeos de Youtube amb les demostracions de Portfolios</string>
   <string comment="GENERAL" name="want-sharing" quotation="true"> dessitja compartir amb vosté una part d\'un portfolio.</string>
   <string comment="GENERAL" name="share-URL" quotation="true">Compartint un Portfolio</string>
   <string comment="GENERAL" name="see" quotation="true">Veure</string>
