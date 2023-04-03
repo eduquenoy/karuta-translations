@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string comment="test" name="language" quotation="true">English</string>
-  <string comment="test" name="langshort" quotation="true">EN</string>
-  <string comment="test" name="flag-name" quotation="true">United-Kingdom</string>
-  <string comment="test" name="new" quotation="true">New Element</string>
-  <string comment="test" name="email" quotation="true">Email</string>
-  <string comment="test" name="password" quotation="true">Password</string>
-  <string comment="test" name="login" quotation="true">Login</string>
-  <string comment="test" name="yes" quotation="true">Yes</string>
-  <string comment="test" name="no" quotation="true">No</string>
-  <string comment="test" name="home" quotation="true">Home</string>
-  <string comment="test" name="loading" quotation="true">Loading... </string>
-  <string comment="test" name="create_pdf" quotation="true">Create PDF</string>
-  <string comment="test" name="create_pdf_toc" quotation="true">Create PDF with TOC</string>
-  <string comment="test" name="Update" quotation="true">Update</string>
-  <string comment="test" name="Create" quotation="true">Create</string>
-  <string comment="test" name="Change" quotation="true">Change</string>
-  <string comment="test" name="Save" quotation="true">Save</string>
-  <string comment="test" name="OK" quotation="true">OK</string>
-  <string comment="test" name="Close" quotation="true">Close</string>
-  <string comment="test" name="Cancel" quotation="true">Cancel</string>
-  <string comment="test" name="register" quotation="true">Register</string>
-  <string comment="test" name="edit" quotation="true">Edit</string>
-  <string comment="test" name="button-edit" quotation="true">Edit</string>
-  <string comment="test" name="button-delete" quotation="true">Delete</string>
-  <string comment="test" name="button-delete-content" quotation="true">Delete content</string>
-  <string comment="test" name="button-restore" quotation="true">Restore</string>
-  <string comment="test" name="button-remove" quotation="true">Remove</string>
-  <string comment="test" name="button-submit" quotation="true">Submit</string>
-  <string comment="test" name="button-unsubmit" quotation="true">Reset</string>
-  <string comment="test" name="button-send" quotation="true">Send</string>
-  <string comment="test" name="button-share" quotation="true">Share</string>
-  <string comment="test" name="button-show" quotation="true">Show</string>
-  <string comment="test" name="button-hide" quotation="true">Hide</string>
-  <string comment="test" name="button-2world" quotation="true">Public URL</string>
-  <string comment="test" name="button-up" quotation="true">Up</string>
-  <string comment="test" name="button-reload" quotation="true">Reload</string>
-  <string comment="test" name="button-edition" quotation="true">To switch to edition mode push the 'Edit' button. &lt;p style='margin-top:20px;font-size:small'&gt; Do not display anymore &lt;input type='checkbox' onclick='doNotDisplayEdit()'&gt;&lt;/p&gt;</string>
-  <string comment="test" name="button-refresh" quotation="true">Reload Page</string>
-  <string comment="test" name="button-refresh-report" quotation="true">Reload Report</string>
-  <string comment="test" name="button-disconnect" quotation="true">Disconnect</string>
-  <string comment="test" name="button-change-password" quotation="true">To change your password</string>
-  <string comment="test" name="button-change-name" quotation="true">Change your name</string>
-  <string comment="test" name="button-new-window" quotation="true">Open a new tab</string>
-  <string comment="test" name="button-support" quotation="true">Technical Support</string>
-  <string comment="test" name="preview" quotation="true">Preview</string>
-  <string comment="test" name="Add" quotation="true">Add</string>
-  <string comment="test" name="AddGroup" quotation="true">Add a Group</string>
-  <string comment="test" name="confirm-delete" quotation="true">Do you want to delete? This action cannot be undone.</string>
-  <string comment="test" name="confirm-submit" quotation="true">Do you want to submit? This action cannot be undone.</string>
-  <string comment="test" name="password-old" quotation="true">Old Password</string>
-  <string comment="test" name="password-new" quotation="true">New Password</string>
-  <string comment="test" name="import" quotation="true">Import</string>
-  <string comment="test" name="instance" quotation="true">Instantiate</string>
-  <string comment="test" name="reload" quotation="true">Reload</string>
-  <string comment="test" name="user" quotation="true">User</string>
-  <string comment="test" name="role" quotation="true">Role</string>
-  <string comment="test" name="model" quotation="true">Template</string>
-  <string comment="test" name="users" quotation="true">Users</string>
-  <string comment="test" name="roles" quotation="true">Roles</string>
-  <string comment="test" name="userofgroup" quotation="true">Users in the Group</string>
-  <string comment="test" name="group" quotation="true">Group</string>
-  <string comment="test" name="move" quotation="true">Move To</string>
-  <string comment="test" name="enter-text" quotation="true">Enter something...</string>
-  <string comment="test" name="not-logged" quotation="true">You are not connected.</string>
-  <string comment="test" name="translate" quotation="true">Translate</string>
-  <string comment="test" name="submit" quotation="true">Submit</string>
-  <string comment="test" name="newpassword" quotation="true">Forgot password?</string>
-  <string comment="test" name="tipnewpassword" quotation="true">If you can not find our message in your inbox, check your &amp;quot;junk mail&amp;quot; or &amp;quot;spam&amp;quot; folder</string>
-  <string comment="test" name="confirm-password" quotation="true">Confirm password</string>
-  <string comment="test" name="password-mismatch" quotation="true">The two passwords do not match.</string>
-  <string comment="test" name="saved" quotation="true">Saved</string>
-  <string comment="test" name="password-sent" quotation="true">A new password has been sent by email.</string>
-  <string comment="test" name="new-account" quotation="true">You don't have an account?</string>
-  <string comment="test" name="sign-up" quotation="true">Sign Up!</string>
-  <string comment="test" name="disconnected" quotation="true">Oups! Maybe you have accidentally been disconnected! Reload the page to verify.</string>
-  <string comment="test" name="demo-documentation" quotation="true">Import Karuta Documentation</string>
-  <string comment="test" name="demo-ecommerce" quotation="true">Import eCommerce Demo Portfolios</string>
-  <string comment="test" name="demo-aacu" quotation="true">Import AACU Demo Portfolios</string>
-  <string comment="test" name="demo-video" quotation="true">Import Demo Portfolios from YouTube Videos</string>
-  <string comment="test" name="want-sharing" quotation="true"> wants to share with you a part of a portfolio.</string>
-  <string comment="test" name="share-URL" quotation="true">Sharing Portfolio</string>
-  <string comment="test" name="see" quotation="true">See</string>
-  <string comment="test" name="free-toolbar-menu-tooltip" quotation="true">Edit Toogle</string>
-  <string comment="test" name="quit-edit" quotation="true">Quit Edit Mode</string>
-  <string comment="test" name="choose" quotation="true">Choose</string>
-  <string comment="test" name="quit" quotation="true">Quit</string>
-  <string comment="test" name="menu" quotation="true">Menu</string>
-  <string comment="test" name="block-image-size" quotation="true">Recommended size in pixels&lt;br&gt;&amp;nbsp; - Height : 220&lt;br&gt;&amp;nbsp; - Width : 800 divided by number of columns&lt;br&gt;&amp;nbsp;</string>
-  <string comment="test" name="list-novisible" quotation="true">Portfolio Not Visible</string>
-  <string comment="test" name="editmode" quotation="true">Edit mode par default</string>
-  <string comment="test" name="empty-bin" quotation="true">Empty bin</string>
-  <string comment="test" name="see-bin" quotation="true">See Bin</string>
-  <string comment="test" name="complex" quotation="true">Partial Loading</string>
-  <string comment="test" name="button-print" quotation="true">Print</string>
-  <string comment="test" name="write-mode" quotation="true">Edit</string>
-  <string comment="test" name="button-increase" quotation="true">Increase Character Size</string>
-  <string comment="test" name="button-decrease" quotation="true">Decrease Character Size</string>
-  <string comment="test" name="copy" quotation="true">Copy</string>
-  <string comment="test" name="copied" quotation="true">Copied</string>
-  <string comment="test" name="waitreport" quotation="true">Wait, the report is executed on the server. Come back in a few minutes to view the report.</string>
-  <string comment="test" name="instruction-export-menu" quotation="true">Copy the menu and paste it where you want to import it.</string>
-  <string comment="test" name="back" quotation="true">Click to go back</string>
-  <string comment="test" name="select-deselect" quotation="true">Select/Deselect All</string>
-  <string comment="test" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
-  <string comment="test" name="select-deselect" quotation="true">Select/Deselect All</string>
-  <string comment="test" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
+  <string comment="GENERAL" name="language" quotation="true">English</string>
+  <string comment="GENERAL" name="langshort" quotation="true">EN</string>
+  <string comment="GENERAL" name="flag-name" quotation="true">United-Kingdom</string>
+  <string comment="GENERAL" name="new" quotation="true">New Element</string>
+  <string comment="GENERAL" name="email" quotation="true">Email</string>
+  <string comment="GENERAL" name="password" quotation="true">Password</string>
+  <string comment="GENERAL" name="login" quotation="true">Login</string>
+  <string comment="GENERAL" name="yes" quotation="true">Yes</string>
+  <string comment="GENERAL" name="no" quotation="true">No</string>
+  <string comment="GENERAL" name="home" quotation="true">Home</string>
+  <string comment="GENERAL" name="loading" quotation="true">Loading... </string>
+  <string comment="GENERAL" name="create_pdf" quotation="true">Create PDF</string>
+  <string comment="GENERAL" name="create_pdf_toc" quotation="true">Create PDF with TOC</string>
+  <string comment="GENERAL" name="Update" quotation="true">Update</string>
+  <string comment="GENERAL" name="Create" quotation="true">Create</string>
+  <string comment="GENERAL" name="Change" quotation="true">Change</string>
+  <string comment="GENERAL" name="Save" quotation="true">Save</string>
+  <string comment="GENERAL" name="OK" quotation="true">OK</string>
+  <string comment="GENERAL" name="Close" quotation="true">Close</string>
+  <string comment="GENERAL" name="Cancel" quotation="true">Cancel</string>
+  <string comment="GENERAL" name="register" quotation="true">Register</string>
+  <string comment="GENERAL" name="edit" quotation="true">Edit</string>
+  <string comment="GENERAL" name="button-edit" quotation="true">Edit</string>
+  <string comment="GENERAL" name="button-delete" quotation="true">Delete</string>
+  <string comment="GENERAL" name="button-delete-content" quotation="true">Delete content</string>
+  <string comment="GENERAL" name="button-restore" quotation="true">Restore</string>
+  <string comment="GENERAL" name="button-remove" quotation="true">Remove</string>
+  <string comment="GENERAL" name="button-submit" quotation="true">Submit</string>
+  <string comment="GENERAL" name="button-unsubmit" quotation="true">Reset</string>
+  <string comment="GENERAL" name="button-send" quotation="true">Send</string>
+  <string comment="GENERAL" name="button-share" quotation="true">Share</string>
+  <string comment="GENERAL" name="button-show" quotation="true">Show</string>
+  <string comment="GENERAL" name="button-hide" quotation="true">Hide</string>
+  <string comment="GENERAL" name="button-2world" quotation="true">Public URL</string>
+  <string comment="GENERAL" name="button-up" quotation="true">Up</string>
+  <string comment="GENERAL" name="button-reload" quotation="true">Reload</string>
+  <string comment="GENERAL" name="button-edition" quotation="true">To switch to edition mode push the 'Edit' button. &lt;p style='margin-top:20px;font-size:small'&gt; Do not display anymore &lt;input type='checkbox' onclick='doNotDisplayEdit()'&gt;&lt;/p&gt;</string>
+  <string comment="GENERAL" name="button-refresh" quotation="true">Reload Page</string>
+  <string comment="GENERAL" name="button-refresh-report" quotation="true">Reload Report</string>
+  <string comment="GENERAL" name="button-disconnect" quotation="true">Disconnect</string>
+  <string comment="GENERAL" name="button-change-password" quotation="true">To change your password</string>
+  <string comment="GENERAL" name="button-change-name" quotation="true">Change your name</string>
+  <string comment="GENERAL" name="button-new-window" quotation="true">Open a new tab</string>
+  <string comment="GENERAL" name="button-support" quotation="true">Technical Support</string>
+  <string comment="GENERAL" name="preview" quotation="true">Preview</string>
+  <string comment="GENERAL" name="Add" quotation="true">Add</string>
+  <string comment="GENERAL" name="AddGroup" quotation="true">Add a Group</string>
+  <string comment="GENERAL" name="confirm-delete" quotation="true">Do you want to delete? This action cannot be undone.</string>
+  <string comment="GENERAL" name="confirm-submit" quotation="true">Do you want to submit? This action cannot be undone.</string>
+  <string comment="GENERAL" name="password-old" quotation="true">Old Password</string>
+  <string comment="GENERAL" name="password-new" quotation="true">New Password</string>
+  <string comment="GENERAL" name="import" quotation="true">Import</string>
+  <string comment="GENERAL" name="instance" quotation="true">Instantiate</string>
+  <string comment="GENERAL" name="reload" quotation="true">Reload</string>
+  <string comment="GENERAL" name="user" quotation="true">User</string>
+  <string comment="GENERAL" name="role" quotation="true">Role</string>
+  <string comment="GENERAL" name="model" quotation="true">Template</string>
+  <string comment="GENERAL" name="users" quotation="true">Users</string>
+  <string comment="GENERAL" name="roles" quotation="true">Roles</string>
+  <string comment="GENERAL" name="userofgroup" quotation="true">Users in the Group</string>
+  <string comment="GENERAL" name="group" quotation="true">Group</string>
+  <string comment="GENERAL" name="move" quotation="true">Move To</string>
+  <string comment="GENERAL" name="enter-text" quotation="true">Enter something...</string>
+  <string comment="GENERAL" name="not-logged" quotation="true">You are not connected.</string>
+  <string comment="GENERAL" name="translate" quotation="true">Translate</string>
+  <string comment="GENERAL" name="submit" quotation="true">Submit</string>
+  <string comment="GENERAL" name="newpassword" quotation="true">Forgot password?</string>
+  <string comment="GENERAL" name="tipnewpassword" quotation="true">If you can not find our message in your inbox, check your &amp;quot;junk mail&amp;quot; or &amp;quot;spam&amp;quot; folder</string>
+  <string comment="GENERAL" name="confirm-password" quotation="true">Confirm password</string>
+  <string comment="GENERAL" name="password-mismatch" quotation="true">The two passwords do not match.</string>
+  <string comment="GENERAL" name="saved" quotation="true">Saved</string>
+  <string comment="GENERAL" name="password-sent" quotation="true">A new password has been sent by email.</string>
+  <string comment="GENERAL" name="new-account" quotation="true">You don't have an account?</string>
+  <string comment="GENERAL" name="sign-up" quotation="true">Sign Up!</string>
+  <string comment="GENERAL" name="disconnected" quotation="true">Oups! Maybe you have accidentally been disconnected! Reload the page to verify.</string>
+  <string comment="GENERAL" name="demo-documentation" quotation="true">Import Karuta Documentation</string>
+  <string comment="GENERAL" name="demo-ecommerce" quotation="true">Import eCommerce Demo Portfolios</string>
+  <string comment="GENERAL" name="demo-aacu" quotation="true">Import AACU Demo Portfolios</string>
+  <string comment="GENERAL" name="demo-video" quotation="true">Import Demo Portfolios from YouTube Videos</string>
+  <string comment="GENERAL" name="want-sharing" quotation="true"> wants to share with you a part of a portfolio.</string>
+  <string comment="GENERAL" name="share-URL" quotation="true">Sharing Portfolio</string>
+  <string comment="GENERAL" name="see" quotation="true">See</string>
+  <string comment="GENERAL" name="free-toolbar-menu-tooltip" quotation="true">Edit Toogle</string>
+  <string comment="GENERAL" name="quit-edit" quotation="true">Quit Edit Mode</string>
+  <string comment="GENERAL" name="choose" quotation="true">Choose</string>
+  <string comment="GENERAL" name="quit" quotation="true">Quit</string>
+  <string comment="GENERAL" name="menu" quotation="true">Menu</string>
+  <string comment="GENERAL" name="block-image-size" quotation="true">Recommended size in pixels&lt;br&gt;&amp;nbsp; - Height : 220&lt;br&gt;&amp;nbsp; - Width : 800 divided by number of columns&lt;br&gt;&amp;nbsp;</string>
+  <string comment="GENERAL" name="list-novisible" quotation="true">Portfolio Not Visible</string>
+  <string comment="GENERAL" name="editmode" quotation="true">Edit mode par default</string>
+  <string comment="GENERAL" name="empty-bin" quotation="true">Empty bin</string>
+  <string comment="GENERAL" name="see-bin" quotation="true">See Bin</string>
+  <string comment="GENERAL" name="complex" quotation="true">Partial Loading</string>
+  <string comment="GENERAL" name="button-print" quotation="true">Print</string>
+  <string comment="GENERAL" name="write-mode" quotation="true">Edit</string>
+  <string comment="GENERAL" name="button-increase" quotation="true">Increase Character Size</string>
+  <string comment="GENERAL" name="button-decrease" quotation="true">Decrease Character Size</string>
+  <string comment="GENERAL" name="copy" quotation="true">Copy</string>
+  <string comment="GENERAL" name="copied" quotation="true">Copied</string>
+  <string comment="GENERAL" name="waitreport" quotation="true">Wait, the report is executed on the server. Come back in a few minutes to view the report.</string>
+  <string comment="GENERAL" name="instruction-export-menu" quotation="true">Copy the menu and paste it where you want to import it.</string>
+  <string comment="GENERAL" name="back" quotation="true">Click to go back</string>
+  <string comment="GENERAL" name="select-deselect" quotation="true">Select/Deselect All</string>
+  <string comment="GENERAL" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
+  <string comment="GENERAL" name="select-deselect" quotation="true">Select/Deselect All</string>
+  <string comment="GENERAL" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
   <string comment="ERRORS" name="error-existing-code" quotation="true">ERROR - The code already exists. Please choose another one.</string>
   <string comment="ERRORS" name="error-existing-login" quotation="true">ERROR - The login already exists or an input is invalid. Please choose another login or check input fields.</string>
   <string comment="ERRORS" name="error-empty-code" quotation="true">ERROR - The code cannot be empty.</string>
