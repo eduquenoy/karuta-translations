@@ -1,107 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string comment="General" name="language" quotation="true">Valencià</string>
-  <string comment="General" name="langshort" quotation="true">EN</string>
-  <string comment="General" name="flag-name" quotation="true">senyera</string>
-  <string comment="General" name="new" quotation="true">Nou Element</string>
-  <string comment="General" name="email" quotation="true">Correu electrònic</string>
-  <string comment="General" name="password" quotation="true">Paraula clau</string>
-  <string comment="General" name="login" quotation="true">Identificar-se</string>
-  <string comment="General" name="yes" quotation="true">Sí</string>
-  <string comment="General" name="no" quotation="true">No</string>
-  <string comment="General" name="home" quotation="true">Principal</string>
-  <string comment="General" name="loading" quotation="true">Carregant... </string>
-  <string comment="General" name="create_pdf" quotation="true">Crear PDF</string>
-  <string comment="General" name="create_pdf_toc" quotation="true">Crear PDF amb TdC</string>
-  <string comment="General" name="Update" quotation="true">Actualitzar</string>
-  <string comment="General" name="Create" quotation="true">Crear</string>
-  <string comment="General" name="Change" quotation="true">Canviar</string>
-  <string comment="General" name="Save" quotation="true">Guardar</string>
-  <string comment="General" name="OK" quotation="true">OK</string>
-  <string comment="General" name="Close" quotation="true">Tancar</string>
-  <string comment="General" name="Cancel" quotation="true">Cancel·lar</string>
-  <string comment="General" name="register" quotation="true">Register</string>
-  <string comment="General" name="edit" quotation="true">Editar</string>
-  <string comment="General" name="button-edit" quotation="true">Editar</string>
-  <string comment="General" name="button-delete" quotation="true">Rols - Esborrar</string>
-  <string comment="General" name="button-delete-content" quotation="true">Delete content</string>
-  <string comment="General" name="button-restore" quotation="true">Restaurar</string>
-  <string comment="General" name="button-remove" quotation="true">Esborrar</string>
-  <string comment="General" name="button-submit" quotation="true">Enviar</string>
-  <string comment="General" name="button-unsubmit" quotation="true">Reiniciar</string>
-  <string comment="General" name="button-send" quotation="true">Rols - Enviar a</string>
-  <string comment="General" name="button-share" quotation="true">Compartir</string>
-  <string comment="General" name="button-show" quotation="true">Rols - Mostrar</string>
-  <string comment="General" name="button-hide" quotation="true">Ocultar</string>
-  <string comment="General" name="button-2world" quotation="true">Public URL</string>
-  <string comment="General" name="button-up" quotation="true">Dalt</string>
-  <string comment="General" name="button-reload" quotation="true">Recarregar</string>
-  <string comment="General" name="button-edition" quotation="true">To switch to edition mode push the \'Edit\' button. &lt;p style=\'margin-top:20px;font-size:small\'&gt; Do not display anymore &lt;input type=\'checkbox\' onclick=\'doNotDisplayEdit()\'&gt;&lt;/p&gt;</string>
-  <string comment="General" name="button-refresh" quotation="true">Reload Page</string>
-  <string comment="General" name="button-refresh-report" quotation="true">Reload Report</string>
-  <string comment="General" name="button-disconnect" quotation="true">Disconnect</string>
-  <string comment="General" name="button-change-password" quotation="true">To change your password</string>
-  <string comment="General" name="button-change-name" quotation="true">Change your name</string>
-  <string comment="General" name="button-new-window" quotation="true">Open a new tab</string>
-  <string comment="General" name="button-support" quotation="true">Technical Support</string>
-  <string comment="General" name="preview" quotation="true">Preview</string>
-  <string comment="General" name="Add" quotation="true">Afegir</string>
-  <string comment="General" name="AddGroup" quotation="true">Afegir un Grup</string>
-  <string comment="General" name="confirm-delete" quotation="true">Dessitja esborrar? Aquesta acció no es pot desfer.</string>
-  <string comment="General" name="confirm-submit" quotation="true">Dessitja enviar? Aquesta acció no es pot desfer.</string>
-  <string comment="General" name="password-old" quotation="true">Paraula clau antiga</string>
-  <string comment="General" name="password-new" quotation="true">Paraula clau nova</string>
-  <string comment="General" name="import" quotation="true">Importar</string>
-  <string comment="General" name="instance" quotation="true">Instanciar</string>
-  <string comment="General" name="reload" quotation="true">Recarregar</string>
-  <string comment="General" name="user" quotation="true">Usuari</string>
-  <string comment="General" name="role" quotation="true">Rol</string>
-  <string comment="General" name="model" quotation="true">Plantilla</string>
-  <string comment="General" name="users" quotation="true">Usuaris</string>
-  <string comment="General" name="roles" quotation="true">Rols</string>
-  <string comment="General" name="userofgroup" quotation="true">Usuari del grup</string>
-  <string comment="General" name="group" quotation="true">Grup</string>
-  <string comment="General" name="move" quotation="true">Moure a</string>
-  <string comment="General" name="enter-text" quotation="true">Introduïu alguna cosa...</string>
-  <string comment="General" name="not-logged" quotation="true">No està conectat.</string>
-  <string comment="General" name="translate" quotation="true">Traduïr</string>
-  <string comment="General" name="submit" quotation="true">Enviar</string>
-  <string comment="General" name="newpassword" quotation="true">Ha oblidat la paraula clau? Envie un nom d\'usuari:</string>
-  <string comment="General" name="tipnewpassword" quotation="true">If you can not find our message in your inbox, check your &amp;quot;junk mail&amp;quot; or &amp;quot;spam&amp;quot; folder</string>
-  <string comment="General" name="confirm-password" quotation="true">Confirmar paraula clau</string>
-  <string comment="General" name="password-mismatch" quotation="true">Les dos paraules clau no coincideixen.</string>
-  <string comment="General" name="saved" quotation="true">Guardat</string>
-  <string comment="General" name="password-sent" quotation="true">Se ha enviat una paraula clau nova per correu electrònic.</string>
-  <string comment="General" name="new-account" quotation="true">No en té conte? &lt;a href=\'createAccount.htm?lang=es_VA\'&gt;Enregistra\'t!&lt;/a&gt;</string>
-  <string comment="General" name="sign-up" quotation="true">Enregistra\'t!</string>
-  <string comment="General" name="disconnected" quotation="true">Ho sentim! S\'ha desconectat per accident</string>
-  <string comment="General" name="demo-documentation" quotation="true">Importar documentació de Karuta</string>
-  <string comment="General" name="demo-ecommerce" quotation="true">Importar Portfolios d\'eCommerce de demostració</string>
-  <string comment="General" name="demo-aacu" quotation="true">Importar Portfolios AACU de demostració</string>
-  <string comment="General" name="demo-video" quotation="true">Importar Vídeos de Youtube amb les demostracions de Portfolios</string>
-  <string comment="General" name="want-sharing" quotation="true"> dessitja compartir amb vosté una part d\'un portfolio.</string>
-  <string comment="General" name="share-URL" quotation="true">Compartint un Portfolio</string>
-  <string comment="General" name="see" quotation="true">Veure</string>
-  <string comment="General" name="free-toolbar-menu-tooltip" quotation="true">Editar Toogle</string>
-  <string comment="General" name="quit-edit" quotation="true">Eixir de la edició</string>
-  <string comment="General" name="choose" quotation="true">Triar</string>
-  <string comment="General" name="quit" quotation="true">Eixir</string>
-  <string comment="General" name="menu" quotation="true">Menú</string>
-  <string comment="General" name="block-image-size" quotation="true">Grandària recomanada en pixels&lt;br&gt;&amp;nbsp; - Altura : 220&lt;br&gt;&amp;nbsp; - Amplària : 800 dividit pel nombre de columnes&lt;br&gt;&amp;nbsp;</string>
-  <string comment="General" name="list-novisible" quotation="true">No visible</string>
-  <string comment="General" name="editmode" quotation="true">Edit mode par default</string>
-  <string comment="General" name="empty-bin" quotation="true">Paperera buida</string>
-  <string comment="General" name="see-bin" quotation="true">See Bin</string>
-  <string comment="General" name="complex" quotation="true">Partial Loading</string>
-  <string comment="General" name="button-print" quotation="true">Print</string>
-  <string comment="General" name="write-mode" quotation="true">Editar</string>
-  <string comment="General" name="button-increase" quotation="true">Increase Character Size</string>
-  <string comment="General" name="button-decrease" quotation="true">Decrease Character Size</string>
-  <string comment="General" name="copy" quotation="true">Copy</string>
-  <string comment="General" name="copied" quotation="true">Copied</string>
-  <string comment="General" name="waitreport" quotation="true">Wait, the report is executed on the server. Come back in a few minutes to view the report.</string>
-  <string comment="General" name="instruction-export-menu" quotation="true">Copy the menu and paste it where you want to import it.</string>
-  <string comment="General" name="back" quotation="true">Click to go back</string>
+  <string comment="GENERAL" name="language" quotation="true">Valencià</string>
+  <string comment="GENERAL" name="langshort" quotation="true">EN</string>
+  <string comment="GENERAL" name="flag-name" quotation="true">senyera</string>
+  <string comment="GENERAL" name="new" quotation="true">Nou Element</string>
+  <string comment="GENERAL" name="email" quotation="true">Correu electrònic</string>
+  <string comment="GENERAL" name="password" quotation="true">Paraula clau</string>
+  <string comment="GENERAL" name="login" quotation="true">Identificar-se</string>
+  <string comment="GENERAL" name="yes" quotation="true">Sí</string>
+  <string comment="GENERAL" name="no" quotation="true">No</string>
+  <string comment="GENERAL" name="home" quotation="true">Principal</string>
+  <string comment="GENERAL" name="loading" quotation="true">Carregant... </string>
+  <string comment="GENERAL" name="create_pdf" quotation="true">Crear PDF</string>
+  <string comment="GENERAL" name="create_pdf_toc" quotation="true">Crear PDF amb TdC</string>
+  <string comment="GENERAL" name="Update" quotation="true">Actualitzar</string>
+  <string comment="GENERAL" name="Create" quotation="true">Crear</string>
+  <string comment="GENERAL" name="Change" quotation="true">Canviar</string>
+  <string comment="GENERAL" name="Save" quotation="true">Guardar</string>
+  <string comment="GENERAL" name="OK" quotation="true">OK</string>
+  <string comment="GENERAL" name="Close" quotation="true">Tancar</string>
+  <string comment="GENERAL" name="Cancel" quotation="true">Cancel·lar</string>
+  <string comment="GENERAL" name="register" quotation="true">Register</string>
+  <string comment="GENERAL" name="edit" quotation="true">Editar</string>
+  <string comment="GENERAL" name="button-edit" quotation="true">Editar</string>
+  <string comment="GENERAL" name="button-delete" quotation="true">Rols - Esborrar</string>
+  <string comment="GENERAL" name="button-delete-content" quotation="true">Delete content</string>
+  <string comment="GENERAL" name="button-restore" quotation="true">Restaurar</string>
+  <string comment="GENERAL" name="button-remove" quotation="true">Esborrar</string>
+  <string comment="GENERAL" name="button-submit" quotation="true">Enviar</string>
+  <string comment="GENERAL" name="button-unsubmit" quotation="true">Reiniciar</string>
+  <string comment="GENERAL" name="button-send" quotation="true">Rols - Enviar a</string>
+  <string comment="GENERAL" name="button-share" quotation="true">Compartir</string>
+  <string comment="GENERAL" name="button-show" quotation="true">Rols - Mostrar</string>
+  <string comment="GENERAL" name="button-hide" quotation="true">Ocultar</string>
+  <string comment="GENERAL" name="button-2world" quotation="true">Public URL</string>
+  <string comment="GENERAL" name="button-up" quotation="true">Dalt</string>
+  <string comment="GENERAL" name="button-reload" quotation="true">Recarregar</string>
+  <string comment="GENERAL" name="button-edition" quotation="true">To switch to edition mode push the \'Edit\' button. &lt;p style=\'margin-top:20px;font-size:small\'&gt; Do not display anymore &lt;input type=\'checkbox\' onclick=\'doNotDisplayEdit()\'&gt;&lt;/p&gt;</string>
+  <string comment="GENERAL" name="button-refresh" quotation="true">Reload Page</string>
+  <string comment="GENERAL" name="button-refresh-report" quotation="true">Reload Report</string>
+  <string comment="GENERAL" name="button-disconnect" quotation="true">Disconnect</string>
+  <string comment="GENERAL" name="button-change-password" quotation="true">To change your password</string>
+  <string comment="GENERAL" name="button-change-name" quotation="true">Change your name</string>
+  <string comment="GENERAL" name="button-new-window" quotation="true">Open a new tab</string>
+  <string comment="GENERAL" name="button-support" quotation="true">Technical Support</string>
+  <string comment="GENERAL" name="preview" quotation="true">Preview</string>
+  <string comment="GENERAL" name="Add" quotation="true">Afegir</string>
+  <string comment="GENERAL" name="AddGroup" quotation="true">Afegir un Grup</string>
+  <string comment="GENERAL" name="confirm-delete" quotation="true">Dessitja esborrar? Aquesta acció no es pot desfer.</string>
+  <string comment="GENERAL" name="confirm-submit" quotation="true">Dessitja enviar? Aquesta acció no es pot desfer.</string>
+  <string comment="GENERAL" name="password-old" quotation="true">Paraula clau antiga</string>
+  <string comment="GENERAL" name="password-new" quotation="true">Paraula clau nova</string>
+  <string comment="GENERAL" name="import" quotation="true">Importar</string>
+  <string comment="GENERAL" name="instance" quotation="true">Instanciar</string>
+  <string comment="GENERAL" name="reload" quotation="true">Recarregar</string>
+  <string comment="GENERAL" name="user" quotation="true">Usuari</string>
+  <string comment="GENERAL" name="role" quotation="true">Rol</string>
+  <string comment="GENERAL" name="model" quotation="true">Plantilla</string>
+  <string comment="GENERAL" name="users" quotation="true">Usuaris</string>
+  <string comment="GENERAL" name="roles" quotation="true">Rols</string>
+  <string comment="GENERAL" name="userofgroup" quotation="true">Usuari del grup</string>
+  <string comment="GENERAL" name="group" quotation="true">Grup</string>
+  <string comment="GENERAL" name="move" quotation="true">Moure a</string>
+  <string comment="GENERAL" name="enter-text" quotation="true">Introduïu alguna cosa...</string>
+  <string comment="GENERAL" name="not-logged" quotation="true">No està conectat.</string>
+  <string comment="GENERAL" name="translate" quotation="true">Traduïr</string>
+  <string comment="GENERAL" name="submit" quotation="true">Enviar</string>
+  <string comment="GENERAL" name="newpassword" quotation="true">Ha oblidat la paraula clau? Envie un nom d\'usuari:</string>
+  <string comment="GENERAL" name="tipnewpassword" quotation="true">If you can not find our message in your inbox, check your &amp;quot;junk mail&amp;quot; or &amp;quot;spam&amp;quot; folder</string>
+  <string comment="GENERAL" name="confirm-password" quotation="true">Confirmar paraula clau</string>
+  <string comment="GENERAL" name="password-mismatch" quotation="true">Les dos paraules clau no coincideixen.</string>
+  <string comment="GENERAL" name="saved" quotation="true">Guardat</string>
+  <string comment="GENERAL" name="password-sent" quotation="true">Se ha enviat una paraula clau nova per correu electrònic.</string>
+  <string comment="GENERAL" name="new-account" quotation="true">No en té conte? &lt;a href=\'createAccount.htm?lang=es_VA\'&gt;Enregistra\'t!&lt;/a&gt;</string>
+  <string comment="GENERAL" name="sign-up" quotation="true">Enregistra\'t!</string>
+  <string comment="GENERAL" name="disconnected" quotation="true">Ho sentim! S\'ha desconectat per accident</string>
+  <string comment="GENERAL" name="demo-documentation" quotation="true">Importar documentació de Karuta</string>
+  <string comment="GENERAL" name="demo-ecommerce" quotation="true">Importar Portfolios d\'eCommerce de demostració</string>
+  <string comment="GENERAL" name="demo-aacu" quotation="true">Importar Portfolios AACU de demostració</string>
+  <string comment="GENERAL" name="demo-video" quotation="true">Importar Vídeos de Youtube amb les demostracions de Portfolios</string>
+  <string comment="GENERAL" name="want-sharing" quotation="true"> dessitja compartir amb vosté una part d\'un portfolio.</string>
+  <string comment="GENERAL" name="share-URL" quotation="true">Compartint un Portfolio</string>
+  <string comment="GENERAL" name="see" quotation="true">Veure</string>
+  <string comment="GENERAL" name="free-toolbar-menu-tooltip" quotation="true">Editar Toogle</string>
+  <string comment="GENERAL" name="quit-edit" quotation="true">Eixir de la edició</string>
+  <string comment="GENERAL" name="choose" quotation="true">Triar</string>
+  <string comment="GENERAL" name="quit" quotation="true">Eixir</string>
+  <string comment="GENERAL" name="menu" quotation="true">Menú</string>
+  <string comment="GENERAL" name="block-image-size" quotation="true">Grandària recomanada en pixels&lt;br&gt;&amp;nbsp; - Altura : 220&lt;br&gt;&amp;nbsp; - Amplària : 800 dividit pel nombre de columnes&lt;br&gt;&amp;nbsp;</string>
+  <string comment="GENERAL" name="list-novisible" quotation="true">No visible</string>
+  <string comment="GENERAL" name="editmode" quotation="true">Edit mode par default</string>
+  <string comment="GENERAL" name="empty-bin" quotation="true">Paperera buida</string>
+  <string comment="GENERAL" name="see-bin" quotation="true">See Bin</string>
+  <string comment="GENERAL" name="complex" quotation="true">Partial Loading</string>
+  <string comment="GENERAL" name="button-print" quotation="true">Print</string>
+  <string comment="GENERAL" name="write-mode" quotation="true">Editar</string>
+  <string comment="GENERAL" name="button-increase" quotation="true">Increase Character Size</string>
+  <string comment="GENERAL" name="button-decrease" quotation="true">Decrease Character Size</string>
+  <string comment="GENERAL" name="copy" quotation="true">Copy</string>
+  <string comment="GENERAL" name="copied" quotation="true">Copied</string>
+  <string comment="GENERAL" name="waitreport" quotation="true">Wait, the report is executed on the server. Come back in a few minutes to view the report.</string>
+  <string comment="GENERAL" name="instruction-export-menu" quotation="true">Copy the menu and paste it where you want to import it.</string>
+  <string comment="GENERAL" name="back" quotation="true">Click to go back</string>
+  <string comment="GENERAL" name="select-deselect" quotation="true">Select/Deselect All</string>
+  <string comment="GENERAL" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
+  <string comment="GENERAL" name="select-deselect" quotation="true">Select/Deselect All</string>
+  <string comment="GENERAL" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
   <string comment="ERRORS" name="error-existing-code" quotation="true">ERROR - El codi ja existeix. Per favor, trieu un altre.</string>
   <string comment="ERRORS" name="error-existing-login" quotation="true">ERROR - El nom d\'usuari ja existeix o la entrada no és vàlida. Per favor, trieu altre nom d\'usuari o verifiqueu els camps d\'entrada.</string>
   <string comment="ERRORS" name="error-empty-code" quotation="true">ERROR - The code cannot be empty.</string>
