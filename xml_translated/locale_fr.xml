@@ -75,10 +75,6 @@
   <string comment="GENERAL" name="new-account" quotation="true">Vous n\'avez pas de compte?</string>
   <string comment="GENERAL" name="sign-up" quotation="true">Inscrivez-vous!</string>
   <string comment="GENERAL" name="disconnected" quotation="true">Oups! Erreur de sauvegarde. Vous avez peut-être été accidentellement déconnecté! Vérifiez en rechargeant la page.</string>
-  <string comment="GENERAL" name="demo-documentation" quotation="true">Importer la documentation Karuta</string>
-  <string comment="GENERAL" name="demo-ecommerce" quotation="true">Importer les portfolios démo eCommerce</string>
-  <string comment="GENERAL" name="demo-aacu" quotation="true">Importer les portfolios démo AACU</string>
-  <string comment="GENERAL" name="demo-video" quotation="true">Importer les portfolios démo des vidéos YouTube</string>
   <string comment="GENERAL" name="want-sharing" quotation="true"> désire partager avec vous une partie de son portfolio.</string>
   <string comment="GENERAL" name="share-URL" quotation="true">Partage du portfolio</string>
   <string comment="GENERAL" name="see" quotation="true">Voir</string>
