@@ -517,5 +517,4 @@
   <string comment="RESOURCES" name="coverage" quotation="true">Couverture</string>
   <string comment="LOGIN" name="connection-cas1" quotation="true">Connexion avec un compte universitaire</string>
   <string comment="LOGIN" name="connection-cas2" quotation="true">Connexion hors compte universitaire</string>
-  <string comment="TESTS" name="malcom" quotation="true">Maurice</string>
 </resources>
