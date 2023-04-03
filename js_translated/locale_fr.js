@@ -611,9 +611,3 @@ karutaStr['fr']['coverage']="Couverture";
 
 karutaStr['fr']['connection-cas1']="Connexion avec un compte universitaire";
 karutaStr['fr']['connection-cas2']="Connexion hors compte universitaire";
-
-//==============================================
-//=================== TESTS ====================
-//==============================================
-
-karutaStr['fr']['malcom']="Maurice";

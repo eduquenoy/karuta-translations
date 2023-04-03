@@ -611,9 +611,3 @@ karutaStr['ja']['coverage']="Coverage";
 
 karutaStr['ja']['connection-cas1']="Connection with University Account";
 karutaStr['ja']['connection-cas2']="Connection without University Account";
-
-//==============================================
-//=================== TESTS ====================
-//==============================================
-
-karutaStr['ja']['malcom']="Malcom";
