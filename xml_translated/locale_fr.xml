@@ -12,7 +12,7 @@
   <string comment="General" name="home" quotation="true">Accueil</string>
   <string comment="General" name="loading" quotation="true">Chargement ... </string>
   <string comment="General" name="create_pdf" quotation="true">Créer PDF</string>
-  <string comment="General" name="create_pdf_toc" quotation="true">Créer PDF avec TdM</string>
+  <string comment="General" name="create_pdf_toc" quotation="true">Créer un PDF avec TdM</string>
   <string comment="General" name="Update" quotation="true">Éditer</string>
   <string comment="General" name="Create" quotation="true">Créer</string>
   <string comment="General" name="Change" quotation="true">Changer</string>
@@ -517,4 +517,5 @@
   <string comment="RESOURCES" name="coverage" quotation="true">Couverture</string>
   <string comment="LOGIN" name="connection-cas1" quotation="true">Connexion avec un compte universitaire</string>
   <string comment="LOGIN" name="connection-cas2" quotation="true">Connexion hors compte universitaire</string>
+  <string comment="TESTS" name="john" quotation="true">John</string>
 </resources>
