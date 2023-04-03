@@ -616,4 +616,4 @@ karutaStr['fr']['connection-cas2']="Connexion hors compte universitaire";
 //=================== TESTS ====================
 //==============================================
 
-karutaStr['fr']['john']="Jaunie";
+karutaStr['fr']['malcom']="Maurice";
