@@ -626,5 +626,5 @@ karutaStr['en']['connection-cas2']="Connection without University Account";
 //=========================================
 //========== TESTS ====================
 //=========================================
-karutaStr['en']['john']="John";
+karutaStr['en']['john']="Johnny";
 
