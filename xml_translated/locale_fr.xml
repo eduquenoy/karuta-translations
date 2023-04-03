@@ -1,107 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string comment="General" name="language" quotation="true">Français</string>
-  <string comment="General" name="langshort" quotation="true">FR</string>
-  <string comment="General" name="flag-name" quotation="true">France</string>
-  <string comment="General" name="new" quotation="true">Nouvel élément</string>
-  <string comment="General" name="email" quotation="true">Courriel</string>
-  <string comment="General" name="password" quotation="true">Mot de passe</string>
-  <string comment="General" name="login" quotation="true">Entrez!</string>
-  <string comment="General" name="yes" quotation="true">Oui</string>
-  <string comment="General" name="no" quotation="true">Non</string>
-  <string comment="General" name="home" quotation="true">Accueil</string>
-  <string comment="General" name="loading" quotation="true">Chargement ... </string>
-  <string comment="General" name="create_pdf" quotation="true">Créer PDF</string>
-  <string comment="General" name="create_pdf_toc" quotation="true">Créer un PDF avec TdM</string>
-  <string comment="General" name="Update" quotation="true">Éditer</string>
-  <string comment="General" name="Create" quotation="true">Créer</string>
-  <string comment="General" name="Change" quotation="true">Changer</string>
-  <string comment="General" name="Save" quotation="true">Enregistrer</string>
-  <string comment="General" name="OK" quotation="true">Sauvegarder</string>
-  <string comment="General" name="Close" quotation="true">Fermer</string>
-  <string comment="General" name="Cancel" quotation="true">Annuler</string>
-  <string comment="General" name="register" quotation="true">Inscrire</string>
-  <string comment="General" name="edit" quotation="true">Éditer</string>
-  <string comment="General" name="button-edit" quotation="true">Éditer</string>
-  <string comment="General" name="button-delete" quotation="true">Supprimer</string>
-  <string comment="General" name="button-delete-content" quotation="true">Supprimer le contenu</string>
-  <string comment="General" name="button-restore" quotation="true">Restaurer</string>
-  <string comment="General" name="button-remove" quotation="true">Retirer</string>
-  <string comment="General" name="button-submit" quotation="true">Soumettre</string>
-  <string comment="General" name="button-unsubmit" quotation="true">Réinitialiser</string>
-  <string comment="General" name="button-send" quotation="true">Partager</string>
-  <string comment="General" name="button-share" quotation="true">Partage</string>
-  <string comment="General" name="button-show" quotation="true">Montrer</string>
-  <string comment="General" name="button-hide" quotation="true">Cacher</string>
-  <string comment="General" name="button-2world" quotation="true">URL publique</string>
-  <string comment="General" name="button-up" quotation="true">Monter</string>
-  <string comment="General" name="button-reload" quotation="true">Reload</string>
-  <string comment="General" name="button-edition" quotation="true">Pour passer en mode édition pousser le bouton \'Éditer\'.&lt;p style=\'margin-top:20px;font-size:small\'&gt; Ne plus afficher &lt;input type=\'checkbox\' onclick=\'doNotDisplayEdit()\'&gt;&lt;/p&gt;</string>
-  <string comment="General" name="button-refresh" quotation="true">Recharger la page</string>
-  <string comment="General" name="button-refresh-report" quotation="true">Rafraîchir le rapport</string>
-  <string comment="General" name="button-disconnect" quotation="true">Se déconnecter</string>
-  <string comment="General" name="button-change-password" quotation="true">Changement de mot de passe</string>
-  <string comment="General" name="button-change-name" quotation="true">Changement votre nom</string>
-  <string comment="General" name="button-new-window" quotation="true">Ouvrir un nouvel onglet</string>
-  <string comment="General" name="button-support" quotation="true">Support technique</string>
-  <string comment="General" name="preview" quotation="true">Aperçu</string>
-  <string comment="General" name="Add" quotation="true">Ajouter</string>
-  <string comment="General" name="AddGroup" quotation="true">Ajouter un groupe</string>
-  <string comment="General" name="confirm-delete" quotation="true">Voulez-vous vraiment supprimer ? Cette action est irréversible.</string>
-  <string comment="General" name="confirm-submit" quotation="true">Voulez-vous soumettre ? Vous ne pourrez plus modifier ou supprimer. Cette action est irréversible.</string>
-  <string comment="General" name="password-old" quotation="true">Ancien mot de passe</string>
-  <string comment="General" name="password-new" quotation="true">Nouveau mot de passe</string>
-  <string comment="General" name="import" quotation="true">Importer</string>
-  <string comment="General" name="instance" quotation="true">Instancier</string>
-  <string comment="General" name="reload" quotation="true">Reload</string>
-  <string comment="General" name="user" quotation="true">Usager</string>
-  <string comment="General" name="role" quotation="true">Rôle</string>
-  <string comment="General" name="model" quotation="true">Gabarit</string>
-  <string comment="General" name="users" quotation="true">Usagers</string>
-  <string comment="General" name="roles" quotation="true">Rôles</string>
-  <string comment="General" name="userofgroup" quotation="true">Usagers dans le groupe</string>
-  <string comment="General" name="group" quotation="true">Groupe</string>
-  <string comment="General" name="move" quotation="true">Déplacer vers</string>
-  <string comment="General" name="enter-text" quotation="true">Tapez votre texte ...</string>
-  <string comment="General" name="not-logged" quotation="true">Vous n\'êtes pas connecté.</string>
-  <string comment="General" name="translate" quotation="true">Traduire</string>
-  <string comment="General" name="submit" quotation="true">Soumettre</string>
-  <string comment="General" name="newpassword" quotation="true">Mot de passe oublié?</string>
-  <string comment="General" name="tipnewpassword" quotation="true">Si vous ne trouvez pas notre message dans votre boîte de réception, vérifiez dans votre dossier «&amp;nbsp;courrier indésirable&amp;nbsp;» ou «&amp;nbsp;spam&amp;nbsp;»</string>
-  <string comment="General" name="confirm-password" quotation="true">Confirmez mot de passe</string>
-  <string comment="General" name="password-mismatch" quotation="true">Les deux mots de passe ne correspondent pas.</string>
-  <string comment="General" name="saved" quotation="true">Enregistré</string>
-  <string comment="General" name="password-sent" quotation="true">Un nouveau mot de passe a été envoyé par courriel.</string>
-  <string comment="General" name="new-account" quotation="true">Vous n\'avez pas de compte?</string>
-  <string comment="General" name="sign-up" quotation="true">Inscrivez-vous!</string>
-  <string comment="General" name="disconnected" quotation="true">Oups! Erreur de sauvegarde. Vous avez peut-être été accidentellement déconnecté! Vérifiez en rechargeant la page.</string>
-  <string comment="General" name="demo-documentation" quotation="true">Importer la documentation Karuta</string>
-  <string comment="General" name="demo-ecommerce" quotation="true">Importer les portfolios démo eCommerce</string>
-  <string comment="General" name="demo-aacu" quotation="true">Importer les portfolios démo AACU</string>
-  <string comment="General" name="demo-video" quotation="true">Importer les portfolios démo des vidéos YouTube</string>
-  <string comment="General" name="want-sharing" quotation="true"> désire partager avec vous une partie de son portfolio.</string>
-  <string comment="General" name="share-URL" quotation="true">Partage du portfolio</string>
-  <string comment="General" name="see" quotation="true">Voir</string>
-  <string comment="General" name="free-toolbar-menu-tooltip" quotation="true">Cliquer pour éditer</string>
-  <string comment="General" name="quit-edit" quotation="true">Quitter le mode édition</string>
-  <string comment="General" name="choose" quotation="true">Choisir</string>
-  <string comment="General" name="quit" quotation="true">Quitter</string>
-  <string comment="General" name="menu" quotation="true">Menu</string>
-  <string comment="General" name="block-image-size" quotation="true">Taille recommandée en pixels&lt;br&gt;&amp;nbsp; - Hauteur : 220&lt;br&gt;&amp;nbsp; - Largeur : 800 divisé par le nombre de colonnes&lt;br&gt;&amp;nbsp;</string>
-  <string comment="General" name="list-novisible" quotation="true">Portfolio non visible</string>
-  <string comment="General" name="editmode" quotation="true">Édition par défaut</string>
-  <string comment="General" name="empty-bin" quotation="true">Vider la poubelle</string>
-  <string comment="General" name="see-bin" quotation="true">Voir la poubelle</string>
-  <string comment="General" name="complex" quotation="true">Chargement partiel</string>
-  <string comment="General" name="button-print" quotation="true">Imprimer</string>
-  <string comment="General" name="write-mode" quotation="true">Éditer</string>
-  <string comment="General" name="button-increase" quotation="true">Augmenter la taille des caractères</string>
-  <string comment="General" name="button-decrease" quotation="true">Diminuer la taille des caractères</string>
-  <string comment="General" name="copy" quotation="true">Copier</string>
-  <string comment="General" name="copied" quotation="true">Copié</string>
-  <string comment="General" name="waitreport" quotation="true">Patience, le rapport est exécuté sur le serveur. Revenez dans quelques minutes pour visualiser le rapport.</string>
-  <string comment="General" name="instruction-export-menu" quotation="true">Copier le menu Ajouter et le coller dans l\'élément où vous voulez l\'importer.</string>
-  <string comment="General" name="back" quotation="true">Cliquer pour revenir en arrière</string>
+  <string comment="GENERAL" name="language" quotation="true">Français</string>
+  <string comment="GENERAL" name="langshort" quotation="true">FR</string>
+  <string comment="GENERAL" name="flag-name" quotation="true">France</string>
+  <string comment="GENERAL" name="new" quotation="true">Nouvel élément</string>
+  <string comment="GENERAL" name="email" quotation="true">Courriel</string>
+  <string comment="GENERAL" name="password" quotation="true">Mot de passe</string>
+  <string comment="GENERAL" name="login" quotation="true">Entrez!</string>
+  <string comment="GENERAL" name="yes" quotation="true">Oui</string>
+  <string comment="GENERAL" name="no" quotation="true">Non</string>
+  <string comment="GENERAL" name="home" quotation="true">Accueil</string>
+  <string comment="GENERAL" name="loading" quotation="true">Chargement ... </string>
+  <string comment="GENERAL" name="create_pdf" quotation="true">Créer PDF</string>
+  <string comment="GENERAL" name="create_pdf_toc" quotation="true">Créer un PDF avec TdM</string>
+  <string comment="GENERAL" name="Update" quotation="true">Éditer</string>
+  <string comment="GENERAL" name="Create" quotation="true">Créer</string>
+  <string comment="GENERAL" name="Change" quotation="true">Changer</string>
+  <string comment="GENERAL" name="Save" quotation="true">Enregistrer</string>
+  <string comment="GENERAL" name="OK" quotation="true">Sauvegarder</string>
+  <string comment="GENERAL" name="Close" quotation="true">Fermer</string>
+  <string comment="GENERAL" name="Cancel" quotation="true">Annuler</string>
+  <string comment="GENERAL" name="register" quotation="true">Inscrire</string>
+  <string comment="GENERAL" name="edit" quotation="true">Éditer</string>
+  <string comment="GENERAL" name="button-edit" quotation="true">Éditer</string>
+  <string comment="GENERAL" name="button-delete" quotation="true">Supprimer</string>
+  <string comment="GENERAL" name="button-delete-content" quotation="true">Supprimer le contenu</string>
+  <string comment="GENERAL" name="button-restore" quotation="true">Restaurer</string>
+  <string comment="GENERAL" name="button-remove" quotation="true">Retirer</string>
+  <string comment="GENERAL" name="button-submit" quotation="true">Soumettre</string>
+  <string comment="GENERAL" name="button-unsubmit" quotation="true">Réinitialiser</string>
+  <string comment="GENERAL" name="button-send" quotation="true">Partager</string>
+  <string comment="GENERAL" name="button-share" quotation="true">Partage</string>
+  <string comment="GENERAL" name="button-show" quotation="true">Montrer</string>
+  <string comment="GENERAL" name="button-hide" quotation="true">Cacher</string>
+  <string comment="GENERAL" name="button-2world" quotation="true">URL publique</string>
+  <string comment="GENERAL" name="button-up" quotation="true">Monter</string>
+  <string comment="GENERAL" name="button-reload" quotation="true">Reload</string>
+  <string comment="GENERAL" name="button-edition" quotation="true">Pour passer en mode édition pousser le bouton \'Éditer\'.&lt;p style=\'margin-top:20px;font-size:small\'&gt; Ne plus afficher &lt;input type=\'checkbox\' onclick=\'doNotDisplayEdit()\'&gt;&lt;/p&gt;</string>
+  <string comment="GENERAL" name="button-refresh" quotation="true">Recharger la page</string>
+  <string comment="GENERAL" name="button-refresh-report" quotation="true">Rafraîchir le rapport</string>
+  <string comment="GENERAL" name="button-disconnect" quotation="true">Se déconnecter</string>
+  <string comment="GENERAL" name="button-change-password" quotation="true">Changement de mot de passe</string>
+  <string comment="GENERAL" name="button-change-name" quotation="true">Changement votre nom</string>
+  <string comment="GENERAL" name="button-new-window" quotation="true">Ouvrir un nouvel onglet</string>
+  <string comment="GENERAL" name="button-support" quotation="true">Support technique</string>
+  <string comment="GENERAL" name="preview" quotation="true">Aperçu</string>
+  <string comment="GENERAL" name="Add" quotation="true">Ajouter</string>
+  <string comment="GENERAL" name="AddGroup" quotation="true">Ajouter un groupe</string>
+  <string comment="GENERAL" name="confirm-delete" quotation="true">Voulez-vous vraiment supprimer ? Cette action est irréversible.</string>
+  <string comment="GENERAL" name="confirm-submit" quotation="true">Voulez-vous soumettre ? Vous ne pourrez plus modifier ou supprimer. Cette action est irréversible.</string>
+  <string comment="GENERAL" name="password-old" quotation="true">Ancien mot de passe</string>
+  <string comment="GENERAL" name="password-new" quotation="true">Nouveau mot de passe</string>
+  <string comment="GENERAL" name="import" quotation="true">Importer</string>
+  <string comment="GENERAL" name="instance" quotation="true">Instancier</string>
+  <string comment="GENERAL" name="reload" quotation="true">Reload</string>
+  <string comment="GENERAL" name="user" quotation="true">Usager</string>
+  <string comment="GENERAL" name="role" quotation="true">Rôle</string>
+  <string comment="GENERAL" name="model" quotation="true">Gabarit</string>
+  <string comment="GENERAL" name="users" quotation="true">Usagers</string>
+  <string comment="GENERAL" name="roles" quotation="true">Rôles</string>
+  <string comment="GENERAL" name="userofgroup" quotation="true">Usagers dans le groupe</string>
+  <string comment="GENERAL" name="group" quotation="true">Groupe</string>
+  <string comment="GENERAL" name="move" quotation="true">Déplacer vers</string>
+  <string comment="GENERAL" name="enter-text" quotation="true">Tapez votre texte ...</string>
+  <string comment="GENERAL" name="not-logged" quotation="true">Vous n\'êtes pas connecté.</string>
+  <string comment="GENERAL" name="translate" quotation="true">Traduire</string>
+  <string comment="GENERAL" name="submit" quotation="true">Soumettre</string>
+  <string comment="GENERAL" name="newpassword" quotation="true">Mot de passe oublié?</string>
+  <string comment="GENERAL" name="tipnewpassword" quotation="true">Si vous ne trouvez pas notre message dans votre boîte de réception, vérifiez dans votre dossier «&amp;nbsp;courrier indésirable&amp;nbsp;» ou «&amp;nbsp;spam&amp;nbsp;»</string>
+  <string comment="GENERAL" name="confirm-password" quotation="true">Confirmez mot de passe</string>
+  <string comment="GENERAL" name="password-mismatch" quotation="true">Les deux mots de passe ne correspondent pas.</string>
+  <string comment="GENERAL" name="saved" quotation="true">Enregistré</string>
+  <string comment="GENERAL" name="password-sent" quotation="true">Un nouveau mot de passe a été envoyé par courriel.</string>
+  <string comment="GENERAL" name="new-account" quotation="true">Vous n\'avez pas de compte?</string>
+  <string comment="GENERAL" name="sign-up" quotation="true">Inscrivez-vous!</string>
+  <string comment="GENERAL" name="disconnected" quotation="true">Oups! Erreur de sauvegarde. Vous avez peut-être été accidentellement déconnecté! Vérifiez en rechargeant la page.</string>
+  <string comment="GENERAL" name="demo-documentation" quotation="true">Importer la documentation Karuta</string>
+  <string comment="GENERAL" name="demo-ecommerce" quotation="true">Importer les portfolios démo eCommerce</string>
+  <string comment="GENERAL" name="demo-aacu" quotation="true">Importer les portfolios démo AACU</string>
+  <string comment="GENERAL" name="demo-video" quotation="true">Importer les portfolios démo des vidéos YouTube</string>
+  <string comment="GENERAL" name="want-sharing" quotation="true"> désire partager avec vous une partie de son portfolio.</string>
+  <string comment="GENERAL" name="share-URL" quotation="true">Partage du portfolio</string>
+  <string comment="GENERAL" name="see" quotation="true">Voir</string>
+  <string comment="GENERAL" name="free-toolbar-menu-tooltip" quotation="true">Cliquer pour éditer</string>
+  <string comment="GENERAL" name="quit-edit" quotation="true">Quitter le mode édition</string>
+  <string comment="GENERAL" name="choose" quotation="true">Choisir</string>
+  <string comment="GENERAL" name="quit" quotation="true">Quitter</string>
+  <string comment="GENERAL" name="menu" quotation="true">Menu</string>
+  <string comment="GENERAL" name="block-image-size" quotation="true">Taille recommandée en pixels&lt;br&gt;&amp;nbsp; - Hauteur : 220&lt;br&gt;&amp;nbsp; - Largeur : 800 divisé par le nombre de colonnes&lt;br&gt;&amp;nbsp;</string>
+  <string comment="GENERAL" name="list-novisible" quotation="true">Portfolio non visible</string>
+  <string comment="GENERAL" name="editmode" quotation="true">Édition par défaut</string>
+  <string comment="GENERAL" name="empty-bin" quotation="true">Vider la poubelle</string>
+  <string comment="GENERAL" name="see-bin" quotation="true">Voir la poubelle</string>
+  <string comment="GENERAL" name="complex" quotation="true">Chargement partiel</string>
+  <string comment="GENERAL" name="button-print" quotation="true">Imprimer</string>
+  <string comment="GENERAL" name="write-mode" quotation="true">Éditer</string>
+  <string comment="GENERAL" name="button-increase" quotation="true">Augmenter la taille des caractères</string>
+  <string comment="GENERAL" name="button-decrease" quotation="true">Diminuer la taille des caractères</string>
+  <string comment="GENERAL" name="copy" quotation="true">Copier</string>
+  <string comment="GENERAL" name="copied" quotation="true">Copié</string>
+  <string comment="GENERAL" name="waitreport" quotation="true">Patience, le rapport est exécuté sur le serveur. Revenez dans quelques minutes pour visualiser le rapport.</string>
+  <string comment="GENERAL" name="instruction-export-menu" quotation="true">Copier le menu Ajouter et le coller dans l\'élément où vous voulez l\'importer.</string>
+  <string comment="GENERAL" name="back" quotation="true">Cliquer pour revenir en arrière</string>
+  <string comment="GENERAL" name="select-deselect" quotation="true">Sélectionner/Désélectionner tout</string>
+  <string comment="GENERAL" name="noemail-yourself" quotation="true">Vous ne pouvez utiliser votre courriel.</string>
+  <string comment="GENERAL" name="select-deselect" quotation="true">Sélectionner/Désélectionner tout</string>
+  <string comment="GENERAL" name="noemail-yourself" quotation="true">Vous ne pouvez utiliser votre courriel.</string>
   <string comment="ERRORS" name="error-existing-code" quotation="true">ERREUR - Le code existe déjà. Veuillez en choisir un autre.</string>
   <string comment="ERRORS" name="error-existing-login" quotation="true">ERREUR - Le login existe déjà ou une entrée est invalide. Veuillez choisir un autre login ou vérifiez les champs.</string>
   <string comment="ERRORS" name="error-empty-code" quotation="true">ERREUR - Le code ne peut être vide.</string>
