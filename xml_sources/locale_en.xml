@@ -517,4 +517,5 @@
   <string comment="RESOURCES" name="coverage" quotation="true">Coverage</string>
   <string comment="LOGIN" name="connection-cas1" quotation="true">Connection with University Account</string>
   <string comment="LOGIN" name="connection-cas2" quotation="true">Connection without University Account</string>
+  <string comment="TESTS" name="john" quotation="true">John</string>
 </resources>
