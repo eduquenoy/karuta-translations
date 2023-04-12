@@ -102,6 +102,7 @@
   <string comment="GENERAL" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
   <string comment="GENERAL" name="select-deselect" quotation="true">Select/Deselect All</string>
   <string comment="GENERAL" name="noemail-yourself" quotation="true">You cannot use your email address.</string>
+  <string comment="GENERAL" name="displaytest" quotation="true">Display JS Test</string>
   <string comment="ERRORS" name="error-existing-code" quotation="true">ERROR - The code already exists. Please choose another one.</string>
   <string comment="ERRORS" name="error-existing-login" quotation="true">ERROR - The login already exists or an input is invalid. Please choose another login or check input fields.</string>
   <string comment="ERRORS" name="error-empty-code" quotation="true">ERROR - The code cannot be empty.</string>
