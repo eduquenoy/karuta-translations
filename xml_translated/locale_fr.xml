@@ -30,7 +30,7 @@
   <string comment="GENERAL" name="button-submit" quotation="true">Soumettre</string>
   <string comment="GENERAL" name="button-unsubmit" quotation="true">Réinitialiser</string>
   <string comment="GENERAL" name="button-send" quotation="true">Envoyer</string>
-  <string comment="GENERAL" name="button-share" quotation="true">Partage</string>
+  <string comment="GENERAL" name="button-share" quotation="true">Partager</string>
   <string comment="GENERAL" name="button-show" quotation="true">Montrer</string>
   <string comment="GENERAL" name="button-hide" quotation="true">Cacher</string>
   <string comment="GENERAL" name="button-2world" quotation="true">URL publique</string>
