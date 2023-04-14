@@ -29,7 +29,7 @@
   <string comment="GENERAL" name="button-remove" quotation="true">Retirer</string>
   <string comment="GENERAL" name="button-submit" quotation="true">Soumettre</string>
   <string comment="GENERAL" name="button-unsubmit" quotation="true">Réinitialiser</string>
-  <string comment="GENERAL" name="button-send" quotation="true">Partager</string>
+  <string comment="GENERAL" name="button-send" quotation="true">Envoyer</string>
   <string comment="GENERAL" name="button-share" quotation="true">Partage</string>
   <string comment="GENERAL" name="button-show" quotation="true">Montrer</string>
   <string comment="GENERAL" name="button-hide" quotation="true">Cacher</string>
